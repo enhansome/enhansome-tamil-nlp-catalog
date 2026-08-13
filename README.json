@@ -1,0 +1,1273 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools, Libraries, Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Facebook MUSE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-08-31T10:12:54Z",
+            "owner": "facebookresearch",
+            "repo": "MUSE",
+            "stars": 3246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConceptNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-18T18:45:28Z",
+            "owner": "commonsense",
+            "repo": "conceptnet-numberbatch",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoMM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T02:29:28Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "geomm",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "FastText",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multilingual Aligned",
+              "description": "{2017}",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-10T17:39:46Z",
+                "owner": "babylonhealth",
+                "repo": "fastText_multilingual",
+                "stars": 1201
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Word Embeddings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multilingual BERT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-23T23:39:41Z",
+            "owner": "google-research",
+            "repo": "bert",
+            "stars": 40057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Multilingual T5",
+          "description": ", mT6 and DeltaLM",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-15T16:32:35Z",
+            "owner": "google-research",
+            "repo": "multilingual-t5",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TranKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-22T19:16:10Z",
+            "owner": "nlp-uoregon",
+            "repo": "trankit",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multilingual Text2Text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-14T05:28:04Z",
+            "owner": "artitw",
+            "repo": "text2text",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNLTK (ULMFit and TransformerXL) - Tamil",
+          "description": "Tanglish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-08-07T06:19:53Z",
+            "owner": "goru001",
+            "repo": "nlp-for-tamil",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI4Bharat: ALBERT",
+          "description": ", BART",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-20T10:03:33Z",
+            "owner": "AI4Bharat",
+            "repo": "indic-bart",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Transformers, BERT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Word Phonemizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:16:14Z",
+            "owner": "bootphon",
+            "repo": "phonemizer",
+            "stars": 1566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibIndic - Rule-based and Model-based",
+          "description": "English words",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-28T06:04:00Z",
+            "owner": "libindic",
+            "repo": "indic-trans",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indic Transliteration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:14:07Z",
+            "owner": "indic-transliteration",
+            "repo": "indic_transliteration_py",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notAI.tech DeepTranslit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-08-07T14:36:24Z",
+            "owner": "notAI-tech",
+            "repo": "DeepTranslit",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Transliteration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coqui",
+          "description": "StT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-11T07:55:56Z",
+            "owner": "coqui-ai",
+            "repo": "STT",
+            "stars": 2604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vākyānsh ASR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-16T06:05:39Z",
+            "owner": "Open-Speech-EkStep",
+            "repo": "vakyansh-models",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIT-M TTS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-09-12T09:01:58Z",
+            "owner": "tshrinivasan",
+            "repo": "tamil-tts-install",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VasuRobo Speech Recognizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-12-04T16:49:51Z",
+            "owner": "vasurobo",
+            "repo": "tamil-speech-recognition",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Speech"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Nisaba (Text Processing Grammar)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T22:11:45Z",
+            "owner": "google-research",
+            "repo": "nisaba",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamil Prosody (யாப்பிலக்கணம்) Analyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-25T00:22:03Z",
+            "owner": "virtualvinodh",
+            "repo": "avalokitam",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Grammar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Indic POS Tagger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T06:14:51Z",
+            "owner": "avineshpvs",
+            "repo": "indic_tagger",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Number To Words",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T12:48:41Z",
+            "owner": "raj-sutariya",
+            "repo": "indic-num2words",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamilinaiya Spell Checker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-19T08:26:08Z",
+            "owner": "tshrinivasan",
+            "repo": "Tamilinaiya-Spellchecker",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punctuation Restoration",
+          "description": "& Indic-Punct",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T13:39:45Z",
+            "owner": "VarnithChordia",
+            "repo": "Multlingual_Punctuation_restoration",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamil Language Model and Tokenizer",
+          "description": "{2018}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-30T04:24:17Z",
+            "owner": "ravi-annaswamy",
+            "repo": "tamil_lm_spm_fai",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tatoeba Wiki Back-translated data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-08-20T12:56:22Z",
+            "owner": "Helsinki-NLP",
+            "repo": "Tatoeba-Challenge",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTurks Crowd-sourced",
+          "description": "{2012}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2023-06-29T19:55:03Z",
+            "owner": "joshua-decoder",
+            "repo": "indian-parallel-corpora",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IndoWordNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-16T15:34:54Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "indowordnet_parallel",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "OPUS Corpus",
+          "description": "(Search en->ta)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Note: CC-Aligned overlaps with CommonCrawl-Matrix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-02T20:24:47Z",
+                "owner": "facebookresearch",
+                "repo": "LASER",
+                "stars": 3660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contains MultiCC Aligned",
+              "description": ", JW300, Tanzil, bible-corpus, WikiMatrix, and more...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-19T16:45:56Z",
+                "owner": "christos-c",
+                "repo": "bible-corpus",
+                "stars": 197
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MultiIndicMT - WAT2021",
+          "description": "/ WMT20 NEWS MT Task",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contains PM India Corpus",
+              "description": ", Manathin Kural (CVIT-MkB), NLPC-UoM Corpus, Wiki Titles, Charles University EnTam v2.0 Corpus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-01-04T16:29:54Z",
+                "owner": "nlpcuom",
+                "repo": "English-Tamil-Parallel-Corpus",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EkStep Anuvaad",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parallel Corpora",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-05-05T10:57:20Z",
+                "owner": "project-anuvaad",
+                "repo": "anuvaad-parallel-corpus",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Synthetic Corpus",
+              "description": "Translations generated using Google",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sinhala-Tamil Parallel Corpus",
+          "description": "{Paper1, Paper2, Data available on request?, Test set}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-29T11:39:58Z",
+            "owner": "nlpc-uom",
+            "repo": "Sinhala-Tamil-Aligned-Parallel-Corpus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDAS-NMT, 2018",
+          "description": "Uses OPUS+EnTam data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2018-09-01T07:43:01Z",
+            "owner": "precog-iiith",
+            "repo": "MIDAS-NMT-English-Tamil",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Dakshina Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-05-27T22:38:33Z",
+            "owner": "google-research-datasets",
+            "repo": "dakshina",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRANSLIT: A Large-scale Name Transliteration Resource",
+          "description": "{2020, Paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T07:25:48Z",
+            "owner": "fbenites",
+            "repo": "TRANSLIT",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Multi-Indic Mined Corpus",
+          "description": "{2021, Paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-09T15:52:21Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "indic_transliteration_analysis",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thirukkural Transliteration",
+          "description": "(Old Tamil)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-20T15:00:46Z",
+            "owner": "narVidhai",
+            "repo": "Thirukkural-Lexicon",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Transliteration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Speech, Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Facebook CoVoST",
+          "description": "{2019, 2-4 hours}",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-14T21:59:06Z",
+            "owner": "facebookresearch",
+            "repo": "covost",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ek-Step ULCA ASR dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-23T11:31:54Z",
+            "owner": "Open-Speech-EkStep",
+            "repo": "ULCA-asr-dataset-corpus",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Speech-To-Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CVSS - CommonVoice-based S2S",
+          "description": "{2022, ~3 hours}",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-08-26T02:18:57Z",
+            "owner": "google-research-datasets",
+            "repo": "cvss",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prabhupadavani",
+          "description": "{2022, Paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-12T04:35:40Z",
+            "owner": "frozentoad9",
+            "repo": "CMST",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Speech Translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chatbot NER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:39:47Z",
+            "owner": "hellohaptik",
+            "repo": "chatbot_ner",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamil Noun Classifier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-23T09:00:45Z",
+            "owner": "sarves",
+            "repo": "Tamil-Noun-Classifier",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "University of Moratuwa NER",
+          "description": "{2019}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-03T10:04:55Z",
+            "owner": "nlpcuom",
+            "repo": "Sinhala-and-Tamil-NER",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Named Entity Recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI4Bharat News Article Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T13:05:27Z",
+            "owner": "AI4Bharat",
+            "repo": "indicnlp_corpus",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Dataset for Troll Classification of TamilMemes, 2020",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-16T09:55:02Z",
+            "owner": "bharathichezhiyan",
+            "repo": "TamilMemes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offensive Language Identification in Dravidian Languages",
+          "description": "{2020, Dataset}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-25T11:21:48Z",
+            "owner": "manikandan-ravikiran",
+            "repo": "DOSA",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Text Classification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OCR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tamil Vowels - Scanned Handwritten",
+          "description": "{12 vowels, 18 images each}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-22T08:32:58Z",
+            "owner": "anandhkishan",
+            "repo": "Handwritten-Character-Recognition-using-CNN",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AcchuTamil Printed Characters Dataset",
+          "description": "{MNIST format}",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-03T17:55:40Z",
+            "owner": "Ezhil-Language-Foundation",
+            "repo": "acchu-tamilocr-dataset",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Character-level datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dravidian-CodeMix: Offensive Language Identification - FIRE2020",
+          "description": "{Competition, Paper, TamilMixSentiment}",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Implementations: Theedhum Nandrum",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-09T10:05:28Z",
+                "owner": "oligoglot",
+                "repo": "theedhum-nandrum",
+                "stars": 17
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-05T09:34:37Z",
+            "owner": "bharathichezhiyan",
+            "repo": "DravidianCodeMix-Dataset",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multilingual Abusive Comment Detection - ShareChatAI",
+          "description": "30k samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T07:01:42Z",
+            "owner": "ShareChatAI",
+            "repo": "MACD",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-01-16T17:53:59Z",
+            "owner": "Jenarthanan14",
+            "repo": "Tamil-Sinhala-Emotion-Analysis",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hope Speech Dataset, 2020",
+          "description": "(Competition)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-16T09:39:40Z",
+            "owner": "bharathichezhiyan",
+            "repo": "HopeEDI",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Sentiment and Abuse Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MTurks Bilngual Dictionary",
+          "description": "{2014}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-14T02:21:43Z",
+            "owner": "AI4Bharat",
+            "repo": "indicnlp_catalog",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI4Bharat Word Frequency Lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T13:05:27Z",
+            "owner": "AI4Bharat",
+            "repo": "indicnlp_corpus",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIT-H Word Similarity Database",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-23T22:24:06Z",
+            "owner": "syedsarfarazakhtar",
+            "repo": "Word-Similarity-Datasets-for-Indian-Languages",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Lexical Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XL-Sum: Abstractive Summarization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T06:20:04Z",
+            "owner": "csebuetnlp",
+            "repo": "xl-sum",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XQA: A Cross-lingual Open-domain Question Answering Dataset",
+          "description": "{2019, Paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-16T14:38:29Z",
+            "owner": "thunlp",
+            "repo": "XQA",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAlign: Cross-lingual Fact-to-Text Alignment and Generation",
+          "description": "{2022, Paper}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-01T19:07:19Z",
+            "owner": "tushar117",
+            "repo": "XAlign",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Natural Language Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XTREME - Multi-task Benchmark for Cross-lingual Generalization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-04T11:37:25Z",
+            "owner": "google-research",
+            "repo": "xtreme",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MASSIVE - NLU Benchmark",
+          "description": "Slot filling, Intent classification, Virtual assistant evaluation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-28T22:22:39Z",
+            "owner": "alexa",
+            "repo": "massive",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vyākarana - Syntactic evaluation of language models",
+          "description": "{2021}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-28T10:56:44Z",
+            "owner": "rajaswa",
+            "repo": "indic-syntax-evaluation",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Natural Language Inference",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AI4Bharat Cross-lingual Semantic Textual Similarity",
+              "description": "{2020}",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-12-14T02:21:43Z",
+                "owner": "AI4Bharat",
+                "repo": "indicnlp_catalog",
+                "stars": 639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IndicLink - Multilingual Fact Linking",
+              "description": "{2022}",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2022-02-08T05:17:44Z",
+                "owner": "google-research-datasets",
+                "repo": "IndicLink",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dialogue",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code-Mixed-Dialog 2018",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-06-20T14:05:54Z",
+                "owner": "sumanbanerjee1",
+                "repo": "Code-Mixed-Dialog",
+                "stars": 33
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Misc",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WIT : Wikipedia-based Image Text Dataset, 2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2024-09-27T20:55:42Z",
+                "owner": "google-research-datasets",
+                "repo": "wit",
+                "stars": 1113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AllNewLyrics Dataset - Tamil Song Lyrics",
+              "description": "{2021, Paper}",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-02-28T10:32:38Z",
+                "owner": "praveenraj0904",
+                "repo": "tamillyricscorpus",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMDravi - Image Captioning and Translation Benchmark, 2019",
+              "description": "Contains manually annotated data for dev & tests from Flickr30k dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-05-16T11:29:53Z",
+                "owner": "bharathichezhiyan",
+                "repo": "multimodalmachinetranslation-Tamil",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reasoning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cross-lingual Choice of Plausible Alternatives",
+              "description": "(XCOPA)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-02-04T01:56:39Z",
+                "owner": "cambridgeltl",
+                "repo": "xcopa",
+                "stars": 105
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MorphAnalysis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AI4Bharat MorphAnalyzer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-16T13:05:27Z",
+                "owner": "AI4Bharat",
+                "repo": "indicnlp_corpus",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThamizhiMorph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-06T20:35:12Z",
+                "owner": "sarves",
+                "repo": "thamizhi-morph",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Pure Tamil",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Indic to Pure Tamil",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-22T12:49:21Z",
+                "owner": "narVidhai",
+                "repo": "Sanskrit-To-Pure-Tamil-Dictionary",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thamizhi Word Validator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-11T09:22:26Z",
+                "owner": "sarves",
+                "repo": "thamizhi-preprocessor",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Miscellaneous NLP Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:33.405Z",
+    "original_repository": "narVidhai/tamil-nlp-catalog",
+    "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
+    "enhanced_repository": "enhansome/enhansome-tamil-nlp-catalog",
+    "enhanced_repository_description": null,
+    "title": "Tamil Deep Learning Awesome List with stars"
+  }
+}
