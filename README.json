@@ -178,7 +178,7 @@
             "last_commit": "2026-08-04T10:16:14Z",
             "owner": "bootphon",
             "repo": "phonemizer",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T22:11:45Z",
+            "last_commit": "2026-08-13T19:52:24Z",
             "owner": "google-research",
             "repo": "nisaba",
             "stars": 52
@@ -417,7 +417,7 @@
             "last_commit": "2024-08-20T12:56:22Z",
             "owner": "Helsinki-NLP",
             "repo": "Tatoeba-Challenge",
-            "stars": 852
+            "stars": 853
           }
         },
         {
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:33.405Z",
+    "last_updated": "2026-08-14T03:07:02.730Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
     "enhanced_repository": "enhansome/enhansome-tamil-nlp-catalog",
