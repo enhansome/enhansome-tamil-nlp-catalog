@@ -118,7 +118,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transliteration
 
 * [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,567 | 🐛 37 | 🌐 Python | 📅 2026-08-04
-* LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 275 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 79 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
+* LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 275 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 211 | 🐛 8 | 🌐 Python | 📅 2026-08-02
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
 * [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
@@ -227,7 +227,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 #### Speech-To-Text
 
 * [Facebook CoVoST](https://github.com/facebookresearch/covost) ⚠️ Archived - {2019, 2-4 hours}
-* [Ek-Step ULCA ASR dataset](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus) ⭐ 50 | 🐛 10 | 📅 2022-11-23
+* [Ek-Step ULCA ASR dataset](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus) ⭐ 51 | 🐛 10 | 📅 2022-11-23
 * [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e)
 * [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
 * [IARPA Babel](https://catalog.ldc.upenn.edu/LDC2017S13) - {2017, 350 hours}
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

@@ -19,7 +19,7 @@
             "last_commit": "2022-08-31T10:12:54Z",
             "owner": "facebookresearch",
             "repo": "MUSE",
-            "stars": 3246
+            "stars": 3245
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40051
+            "stars": 40049
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2022-11-23T11:31:54Z",
             "owner": "Open-Speech-EkStep",
             "repo": "ULCA-asr-dataset-corpus",
-            "stars": 50
+            "stars": 51
           }
         }
       ],
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:04:31.437Z",
+    "last_updated": "2026-08-18T01:58:18.839Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
     "enhanced_repository": "enhansome/enhansome-tamil-nlp-catalog",
