@@ -88,7 +88,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40049
+            "stars": 40047
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2022-10-12T04:35:40Z",
             "owner": "frozentoad9",
             "repo": "CMST",
-            "stars": 13
+            "stars": 14
           }
         }
       ],
@@ -1134,7 +1134,7 @@
                 "last_commit": "2024-09-27T20:55:42Z",
                 "owner": "google-research-datasets",
                 "repo": "wit",
-                "stars": 1113
+                "stars": 1112
               }
             },
             {
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:58:18.839Z",
+    "last_updated": "2026-08-19T02:01:44.102Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
     "enhanced_repository": "enhansome/enhansome-tamil-nlp-catalog",
