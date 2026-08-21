@@ -17,7 +17,7 @@
                 "last_commit": "2022-08-31T10:12:54Z",
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3245
+                "stars": 3244
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047
+                "stars": 40048
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2018-09-12T09:01:58Z",
                 "owner": "tshrinivasan",
                 "repo": "tamil-tts-install",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -319,7 +319,7 @@
                 "archived": false,
                 "id": 318338748,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:41:37Z",
+                "last_commit": "2026-08-20T15:21:46Z",
                 "owner": "google-research",
                 "repo": "nisaba",
                 "stars": 52
@@ -447,7 +447,7 @@
                 "last_commit": "2024-08-20T12:56:22Z",
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 853
+                "stars": 854
               }
             },
             {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:59:49.494Z",
+    "last_updated": "2026-08-21T02:08:22.666Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
