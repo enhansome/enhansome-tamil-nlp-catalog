@@ -91,7 +91,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40048
+                "stars": 40047
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2022-12-15T16:32:35Z",
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1295
+                "stars": 1294
               }
             },
             {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:08:22.666Z",
+    "last_updated": "2026-08-22T01:57:47.004Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
