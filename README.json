@@ -91,7 +91,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047
+                "stars": 40046
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2025-07-22T19:16:10Z",
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 795
+                "stars": 796
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-04T10:16:14Z",
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1567
+                "stars": 1566
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2024-03-11T07:55:56Z",
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2604
+                "stars": 2606
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2022-09-16T06:05:39Z",
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 327
+                "stars": 328
               }
             },
             {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:57:47.004Z",
+    "last_updated": "2026-08-23T02:09:26.453Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
