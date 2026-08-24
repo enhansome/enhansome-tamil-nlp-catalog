@@ -4,6 +4,42 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Please use GitHub Issues for queries/feedback or to contribute resources/links.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306596068,
+            "language": "HTML",
+            "last_commit": "2023-04-06T09:47:10Z",
+            "owner": "narVidhai",
+            "repo": "tamil-nlp-catalog",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "If you find this useful, please star this on GitHub to encourage this list to be active.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306596068,
+            "language": "HTML",
+            "last_commit": "2023-04-06T09:47:10Z",
+            "owner": "narVidhai",
+            "repo": "tamil-nlp-catalog",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -91,7 +127,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045
+                "stars": 40046
               }
             },
             {
@@ -173,6 +209,87 @@
           "description": null,
           "node_type": "group",
           "title": "Transformers, BERT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "NMT",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EasyNMT",
+                  "description": "Collection of open source multilingual NMT models",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330965709,
+                    "language": "Python",
+                    "last_commit": "2023-12-21T15:05:23Z",
+                    "owner": "UKPLab",
+                    "repo": "EasyNMT",
+                    "stars": 1260
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "IIIT-H IndicMulti",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148030258,
+                    "language": "Python",
+                    "last_commit": "2022-03-05T14:46:38Z",
+                    "owner": "jerinphilip",
+                    "repo": "ilmulti",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "not-AI-Tech Anuvaad",
+                  "description": "{2020, mT5 model fine-tuned on public datasets}",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 314321061,
+                    "language": "Python",
+                    "last_commit": "2021-04-11T06:16:31Z",
+                    "owner": "notAI-tech",
+                    "repo": "Anuvaad",
+                    "stars": 4
+                  }
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python Translators",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106274270,
+                    "language": "Python",
+                    "last_commit": "2026-01-26T19:15:38Z",
+                    "owner": "UlionTse",
+                    "repo": "translators",
+                    "stars": 2693
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Online translation libraries"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translation"
         },
         {
           "children": [
@@ -433,6 +550,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cholloadai, 2021",
+              "description": "72M phrases (not sentences)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434946498,
+                "language": null,
+                "last_commit": "2021-12-06T08:14:54Z",
+                "owner": "vanangamudi",
+                "repo": "cholloadai-2021",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monolingual Corpus"
+        },
         {
           "children": [
             {
@@ -745,6 +884,50 @@
               "description": null,
               "node_type": "group",
               "title": "Speech Translation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WikiPron",
+                  "description": "Word Pronounciations from Wiki",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 751881394,
+                    "language": "Python",
+                    "last_commit": "2026-04-07T15:48:50Z",
+                    "owner": "kylebgorman",
+                    "repo": "wikipron",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Text-to-Speech (TTS)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Abuse Detection In Multilingual Audio",
+                  "description": "{2022, Paper}",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 459904749,
+                    "language": "Python",
+                    "last_commit": "2022-05-09T08:05:11Z",
+                    "owner": "ShareChatAI",
+                    "repo": "ADIMA",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Audio"
             }
           ],
           "description": null,
@@ -893,11 +1076,55 @@
               "description": null,
               "node_type": "group",
               "title": "Character-level datasets"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Anuvaad OCR Corpus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 397260234,
+                    "language": null,
+                    "last_commit": "2023-01-27T09:39:48Z",
+                    "owner": "project-anuvaad",
+                    "repo": "anuvaad-ocr-corpus",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Document OCR"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "OCR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ThamizhiPOSt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315714981,
+                "language": "Python",
+                "last_commit": "2020-11-24T18:17:03Z",
+                "owner": "nlpcuom",
+                "repo": "ThamizhiPOSt",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Part-Of-Speech (POS) Tagging"
         },
         {
           "children": [
@@ -1357,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:07:46.467Z",
+    "last_updated": "2026-08-24T14:37:57.726Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",

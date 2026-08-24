@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,195 | 🐛 684 | 🌐 Python | 📅 2026-01-23
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -104,10 +104,10 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Translation
 
 * NMT
-  * [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
-  * [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2021-04-11 - {2020, mT5 model fine-tuned on public datasets}
-  * [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2022-03-05
   * [EasyNMT](https://github.com/UKPLab/EasyNMT) ⭐ 1,260 | 🐛 55 | 🌐 Python | 📅 2023-12-21 - Collection of open source multilingual NMT models
+  * [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2022-03-05
+  * [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2021-04-11 - {2020, mT5 model fine-tuned on public datasets}
+  * [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
 * Moses SMT
   * [IIT-B Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
 
@@ -159,6 +159,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Monolingual Corpus
 
+* [Cholloadai, 2021](https://github.com/vanangamudi/cholloadai-2021) ⭐ 4 | 🐛 0 | 📅 2021-12-06 - 72M phrases (not sentences)
 * CommonCrawl
   * [OSCAR Corpus 2019](https://oscar-corpus.com/) - Deduplicated Corpus {226M Tokens, 5.1GB)
   * [WMT Raw 2017](http://data.statmt.org/ngrams/raw/) - CC crawls from 2012-2016
@@ -170,7 +171,6 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 * [Dinamalar News Corpus](https://www.kaggle.com/vijayabhaskar96/tamil-news-dataset-19-million-records) - {2009-19, 120k articles}
 * [TamilMurasu News Articles](https://www.kaggle.com/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu) - {2011-19, 127k articles}
 * [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
-* [Cholloadai, 2021](https://github.com/vanangamudi/cholloadai-2021) ⭐ 4 | 🐛 0 | 📅 2021-12-06 - 72M phrases (not sentences)
 
 #### Government Raw Text
 
@@ -241,15 +241,15 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 #### Text-to-Speech (TTS)
 
-* [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
 * [WikiPron](https://github.com/kylebgorman/wikipron) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-07 - Word Pronounciations from Wiki
+* [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
 * [LinguaLibre](https://lingualibre.org/datasets/) - Wiktionary-based word corpus
 * [SLR65](http://openslr.org/65) - Crowdsourced high-quality Tamil multi-speaker speech dataset
 
 #### Audio
 
-* [VoxLingua107 - Language Identification dataset](http://bark.phon.ioc.ee/voxlingua107/)
 * [Abuse Detection In Multilingual Audio](https://github.com/ShareChatAI/Adima) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-05-09 - {2022, [Paper](https://arxiv.org/pdf/2202.07991.pdf)}
+* [VoxLingua107 - Language Identification dataset](http://bark.phon.ioc.ee/voxlingua107/)
 * [A classification dataset for Tamil music](http://dorienherremans.com/sgmusic) - {2020, [Paper](https://arxiv.org/abs/2009.04459)}
 
 ### Named Entity Recognition
@@ -304,8 +304,8 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Part-Of-Speech (POS) Tagging
 
-* [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
 * [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2020-11-24
+* [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
 * Treebanks from [Universal Dependencies](https://universaldependencies.org/ta/index.html)
 
 ### Sentiment and Abuse Analysis
