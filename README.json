@@ -15,7 +15,7 @@
             "last_commit": "2023-04-06T09:47:10Z",
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-04-06T09:47:10Z",
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 118
+            "stars": 119
           }
         }
       ],
@@ -127,7 +127,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-12-14T02:21:43Z",
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
-                "stars": 639
+                "stars": 638
               }
             },
             {
@@ -1384,7 +1384,7 @@
                     "last_commit": "2024-12-14T02:21:43Z",
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
-                    "stars": 639
+                    "stars": 638
                   }
                 },
                 {
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:57.726Z",
+    "last_updated": "2026-08-25T02:02:18.741Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
