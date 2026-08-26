@@ -127,7 +127,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045
+                "stars": 40046
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-04T10:16:14Z",
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1566
+                "stars": 1567
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2024-03-11T07:55:56Z",
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2607
+                "stars": 2606
               }
             },
             {
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:32.659Z",
+    "last_updated": "2026-08-26T02:09:16.937Z",
     "original_repository": "narVidhai/tamil-nlp-catalog",
     "original_repository_id": 306596068,
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
