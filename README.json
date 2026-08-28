@@ -16,7 +16,8 @@
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T11:39:47.871Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T11:39:47.871Z"
         }
       ],
       "title": "Overview"
@@ -54,7 +56,8 @@
                 "owner": "facebookresearch",
                 "repo": "MUSE",
                 "stars": 3244
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "commonsense",
                 "repo": "conceptnet-numberbatch",
                 "stars": 1322
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "anoopkunchukuttan",
                 "repo": "geomm",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "group",
@@ -104,7 +109,8 @@
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
                     "stars": 1201
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             }
@@ -127,8 +133,9 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
-              }
+                "stars": 40045
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "google-research",
                 "repo": "multilingual-t5",
                 "stars": 1294
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
                 "stars": 796
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "artitw",
                 "repo": "text2text",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "goru001",
                 "repo": "nlp-for-tamil",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "AI4Bharat",
                 "repo": "indic-bart",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -230,7 +242,8 @@
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
                     "stars": 1260
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -245,7 +258,8 @@
                     "owner": "jerinphilip",
                     "repo": "ilmulti",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -260,7 +274,8 @@
                     "owner": "notAI-tech",
                     "repo": "Anuvaad",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -279,7 +294,8 @@
                     "owner": "UlionTse",
                     "repo": "translators",
                     "stars": 2694
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -306,7 +322,8 @@
                 "owner": "bootphon",
                 "repo": "phonemizer",
                 "stars": 1567
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -321,7 +338,8 @@
                 "owner": "libindic",
                 "repo": "indic-trans",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -332,11 +350,12 @@
                 "archived": false,
                 "id": 93286921,
                 "language": "Python",
-                "last_commit": "2026-08-02T01:14:07Z",
+                "last_commit": "2026-08-28T05:43:15Z",
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -351,7 +370,8 @@
                 "owner": "notAI-tech",
                 "repo": "DeepTranslit",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -373,7 +393,8 @@
                 "owner": "coqui-ai",
                 "repo": "STT",
                 "stars": 2606
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -388,7 +409,8 @@
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -403,7 +425,8 @@
                 "owner": "tshrinivasan",
                 "repo": "tamil-tts-install",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -418,7 +441,8 @@
                 "owner": "vasurobo",
                 "repo": "tamil-speech-recognition",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -440,7 +464,8 @@
                 "owner": "google-research",
                 "repo": "nisaba",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -455,7 +480,8 @@
                 "owner": "virtualvinodh",
                 "repo": "avalokitam",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -477,7 +503,8 @@
                 "owner": "avineshpvs",
                 "repo": "indic_tagger",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -492,7 +519,8 @@
                 "owner": "raj-sutariya",
                 "repo": "indic-num2words",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -507,7 +535,8 @@
                 "owner": "tshrinivasan",
                 "repo": "Tamilinaiya-Spellchecker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -522,7 +551,8 @@
                 "owner": "VarnithChordia",
                 "repo": "Multlingual_Punctuation_restoration",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -537,7 +567,8 @@
                 "owner": "ravi-annaswamy",
                 "repo": "tamil_lm_spm_fai",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -565,7 +596,8 @@
                 "owner": "vanangamudi",
                 "repo": "cholloadai-2021",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -587,7 +619,8 @@
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
                 "stars": 855
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -602,7 +635,8 @@
                 "owner": "joshua-decoder",
                 "repo": "indian-parallel-corpora",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -617,7 +651,8 @@
                 "owner": "anoopkunchukuttan",
                 "repo": "indowordnet_parallel",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "group",
@@ -637,7 +672,8 @@
                     "owner": "facebookresearch",
                     "repo": "LASER",
                     "stars": 3660
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -652,7 +688,8 @@
                     "owner": "christos-c",
                     "repo": "bible-corpus",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -674,7 +711,8 @@
                     "owner": "nlpcuom",
                     "repo": "English-Tamil-Parallel-Corpus",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -696,7 +734,8 @@
                     "owner": "project-anuvaad",
                     "repo": "anuvaad-parallel-corpus",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -715,7 +754,8 @@
                     "owner": "nlpc-uom",
                     "repo": "Sinhala-Tamil-Aligned-Parallel-Corpus",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -730,7 +770,8 @@
                     "owner": "precog-iiith",
                     "repo": "MIDAS-NMT-English-Tamil",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -757,7 +798,8 @@
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -772,7 +814,8 @@
                 "owner": "fbenites",
                 "repo": "TRANSLIT",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -787,7 +830,8 @@
                 "owner": "anoopkunchukuttan",
                 "repo": "indic_transliteration_analysis",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -802,7 +846,8 @@
                 "owner": "narVidhai",
                 "repo": "Thirukkural-Lexicon",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -826,7 +871,8 @@
                     "owner": "facebookresearch",
                     "repo": "covost",
                     "stars": 401
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -841,7 +887,8 @@
                     "owner": "Open-Speech-EkStep",
                     "repo": "ULCA-asr-dataset-corpus",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -863,7 +910,8 @@
                     "owner": "google-research-datasets",
                     "repo": "cvss",
                     "stars": 220
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -878,7 +926,8 @@
                     "owner": "frozentoad9",
                     "repo": "CMST",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -900,7 +949,8 @@
                     "owner": "kylebgorman",
                     "repo": "wikipron",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -922,7 +972,8 @@
                     "owner": "ShareChatAI",
                     "repo": "ADIMA",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -949,7 +1000,8 @@
                 "owner": "hellohaptik",
                 "repo": "chatbot_ner",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -964,7 +1016,8 @@
                 "owner": "sarves",
                 "repo": "Tamil-Noun-Classifier",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1032,8 @@
                 "owner": "nlpcuom",
                 "repo": "Sinhala-and-Tamil-NER",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1001,7 +1055,8 @@
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1071,8 @@
                 "owner": "bharathichezhiyan",
                 "repo": "TamilMemes",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1087,8 @@
                 "owner": "manikandan-ravikiran",
                 "repo": "DOSA",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1055,7 +1112,8 @@
                     "owner": "anandhkishan",
                     "repo": "Handwritten-Character-Recognition-using-CNN",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1128,8 @@
                     "owner": "Ezhil-Language-Foundation",
                     "repo": "acchu-tamilocr-dataset",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -1092,7 +1151,8 @@
                     "owner": "project-anuvaad",
                     "repo": "anuvaad-ocr-corpus",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "description": null,
@@ -1119,7 +1179,8 @@
                 "owner": "nlpcuom",
                 "repo": "ThamizhiPOSt",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1146,7 +1207,8 @@
                     "owner": "oligoglot",
                     "repo": "theedhum-nandrum",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "repo_info": {
@@ -1157,7 +1219,8 @@
                 "owner": "bharathichezhiyan",
                 "repo": "DravidianCodeMix-Dataset",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1235,8 @@
                 "owner": "ShareChatAI",
                 "repo": "MACD",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1251,8 @@
                 "owner": "Jenarthanan14",
                 "repo": "Tamil-Sinhala-Emotion-Analysis",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1267,8 @@
                 "owner": "bharathichezhiyan",
                 "repo": "HopeEDI",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1224,7 +1290,8 @@
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1239,7 +1306,8 @@
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1254,7 +1322,8 @@
                 "owner": "syedsarfarazakhtar",
                 "repo": "Word-Similarity-Datasets-for-Indian-Languages",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1276,7 +1345,8 @@
                 "owner": "csebuetnlp",
                 "repo": "xl-sum",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1291,7 +1361,8 @@
                 "owner": "thunlp",
                 "repo": "XQA",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1306,7 +1377,8 @@
                 "owner": "tushar117",
                 "repo": "XAlign",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1328,7 +1400,8 @@
                 "owner": "google-research",
                 "repo": "xtreme",
                 "stars": 651
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1416,8 @@
                 "owner": "alexa",
                 "repo": "massive",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             },
             {
               "node_type": "item",
@@ -1358,7 +1432,8 @@
                 "owner": "rajaswa",
                 "repo": "indic-syntax-evaluation",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T11:39:47.871Z"
             }
           ],
           "description": null,
@@ -1385,7 +1460,8 @@
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 638
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1400,7 +1476,8 @@
                     "owner": "google-research-datasets",
                     "repo": "IndicLink",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -1422,7 +1499,8 @@
                     "owner": "sumanbanerjee1",
                     "repo": "Code-Mixed-Dialog",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -1444,7 +1522,8 @@
                     "owner": "google-research-datasets",
                     "repo": "wit",
                     "stars": 1113
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1459,7 +1538,8 @@
                     "owner": "praveenraj0904",
                     "repo": "tamillyricscorpus",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1474,7 +1554,8 @@
                     "owner": "bharathichezhiyan",
                     "repo": "multimodalmachinetranslation-Tamil",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -1496,7 +1577,8 @@
                     "owner": "cambridgeltl",
                     "repo": "xcopa",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -1518,7 +1600,8 @@
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_corpus",
                     "stars": 206
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1533,7 +1616,8 @@
                     "owner": "sarves",
                     "repo": "thamizhi-morph",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             },
@@ -1555,7 +1639,8 @@
                     "owner": "narVidhai",
                     "repo": "Sanskrit-To-Pure-Tamil-Dictionary",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 },
                 {
                   "node_type": "item",
@@ -1570,7 +1655,8 @@
                     "owner": "sarves",
                     "repo": "thamizhi-preprocessor",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             }
@@ -1584,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:45.287Z",
+    "last_updated": "2026-08-28T11:39:47.871Z",
     "original_repository_info": {
       "archived": false,
       "id": 306596068,
