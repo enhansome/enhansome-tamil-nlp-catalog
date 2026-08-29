@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome List of Tamil NLP & AI Resources",
+            "homepage": "https://narvidhai.github.io/tamil-nlp-catalog",
             "id": 306596068,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-04-06T09:47:10Z",
+            "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dravidian",
+              "tamil",
+              "tamil-nlp"
+            ]
           },
           "first_seen": "2026-08-28T11:39:47.871Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome List of Tamil NLP & AI Resources",
+            "homepage": "https://narvidhai.github.io/tamil-nlp-catalog",
             "id": 306596068,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-04-06T09:47:10Z",
+            "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dravidian",
+              "tamil",
+              "tamil-nlp"
+            ]
           },
           "first_seen": "2026-08-28T11:39:47.871Z"
         }
@@ -50,12 +72,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A library for Multilingual Unsupervised or Supervised word Embeddings",
+                "homepage": null,
                 "id": 108021672,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-31T10:12:54Z",
+                "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3244
+                "stars": 3244,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -66,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 39023580,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-18T18:45:28Z",
+                "open_issues": 10,
                 "owner": "commonsense",
                 "repo": "conceptnet-numberbatch",
-                "stars": 1322
+                "stars": 1322,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -82,12 +114,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geometry-aware Multilingual Embeddings",
+                "homepage": null,
                 "id": 158522961,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-08T02:29:28Z",
+                "open_issues": 30,
                 "owner": "anoopkunchukuttan",
                 "repo": "geomm",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bilingual-word-embedding",
+                  "multilingual",
+                  "nlp",
+                  "translation",
+                  "word-embedding"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -103,12 +146,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multilingual word vectors in 78 languages",
+                    "homepage": null,
                     "id": 88980430,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-03-10T17:39:46Z",
+                    "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1201
+                    "stars": 1201,
+                    "topics": [
+                      "distributed-representations",
+                      "machine-learning",
+                      "machine-translation",
+                      "natural-language-processing",
+                      "nlp",
+                      "word-vectors"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -128,12 +183,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TensorFlow code and pre-trained models for BERT",
+                "homepage": "https://arxiv.org/abs/1810.04805",
                 "id": 154747577,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-23T23:39:41Z",
+                "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045
+                "stars": 40046,
+                "topics": [
+                  "google",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "nlp",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -144,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 306422385,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-15T16:32:35Z",
+                "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1294
+                "stars": 1294,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -160,12 +231,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing",
+                "homepage": null,
                 "id": 328007342,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-22T19:16:10Z",
+                "open_issues": 40,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "adapters",
+                  "artificial-intelligence",
+                  "deeplearning",
+                  "dependency-parsing",
+                  "language-model",
+                  "lemmatization",
+                  "machine-learning",
+                  "morphological-tagging",
+                  "multilingual",
+                  "natural-language-processing",
+                  "nlp",
+                  "part-of-speech-tagging",
+                  "pytorch",
+                  "sentence-segmentation",
+                  "tokenization",
+                  "universal-dependencies",
+                  "xlm-roberta"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -176,12 +270,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text2Text Language Modeling Toolkit",
+                "homepage": "https://discord.gg/eHaaUuWpTc",
                 "id": 244070216,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-14T05:28:04Z",
+                "open_issues": 28,
                 "owner": "artitw",
                 "repo": "text2text",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "cross-lingual",
+                  "embeddings",
+                  "information-retrieval",
+                  "levenshtein-distance",
+                  "llama",
+                  "llm",
+                  "multi-lingual",
+                  "nlp",
+                  "question-generation",
+                  "rag",
+                  "search",
+                  "tf-idf",
+                  "tokenizer",
+                  "transformers",
+                  "translator"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -192,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State of the Art Language models and Classifier for Tamil language (spoken in India, and few other South Asian countries)",
+                "homepage": null,
                 "id": 179795119,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-08-07T06:19:53Z",
+                "open_issues": 2,
                 "owner": "goru001",
                 "repo": "nlp-for-tamil",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -208,12 +330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-trained, multilingual sequence-to-sequence models for Indian languages",
+                "homepage": null,
                 "id": 403540052,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-20T10:03:33Z",
+                "open_issues": 1,
                 "owner": "AI4Bharat",
                 "repo": "indic-bart",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -236,12 +363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy to use, state-of-the-art Neural Machine Translation for 100+ languages",
+                    "homepage": null,
                     "id": 330965709,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-21T15:05:23Z",
+                    "open_issues": 55,
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
-                    "stars": 1260
+                    "stars": 1260,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -252,12 +384,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tooling to play around with multilingual machine translation for Indian Languages.",
+                    "homepage": "http://preon.iiit.ac.in/~jerin/bhasha",
                     "id": 148030258,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-05T14:46:38Z",
+                    "open_issues": 5,
                     "owner": "jerinphilip",
                     "repo": "ilmulti",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "indian-languages",
+                      "machine-translation",
+                      "machine-translation-models",
+                      "multilingual-translation",
+                      "multilingual-translations",
+                      "pytorch",
+                      "tokenizer",
+                      "wrappers"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -268,12 +414,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "State of the art open-source translation for Indic languages.",
+                    "homepage": null,
                     "id": 314321061,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-04-11T06:16:31Z",
+                    "open_issues": 3,
                     "owner": "notAI-tech",
                     "repo": "Anuvaad",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "hindi",
+                      "india",
+                      "indic-languages",
+                      "kannada",
+                      "malayalam",
+                      "marathi",
+                      "mt5",
+                      "multilingual",
+                      "nlp",
+                      "tamil",
+                      "telugu",
+                      "transformer",
+                      "transformers",
+                      "translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -288,12 +454,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Translators is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  「翻译官」是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。",
+                    "homepage": "https://pypi.org/project/translators/",
                     "id": 106274270,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-26T19:15:38Z",
+                    "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694
+                    "stars": 2694,
+                    "topics": [
+                      "alibaba",
+                      "argos",
+                      "baidu",
+                      "bing",
+                      "caiyun",
+                      "deepl",
+                      "google",
+                      "iciba",
+                      "iflytek",
+                      "itranslate",
+                      "lara",
+                      "lingvanex",
+                      "modernmt",
+                      "mymemory",
+                      "papago",
+                      "reverso",
+                      "sogou",
+                      "tencent",
+                      "yandex",
+                      "youdao"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -316,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple text to phones converter for multiple languages",
+                "homepage": "https://bootphon.github.io/phonemizer/",
                 "id": 56728069,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-04T10:16:14Z",
+                "open_issues": 37,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1567
+                "stars": 1567,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -332,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project aims on adding a state-of-the-art transliteration module for cross transliterations among all Indian languages including English.",
+                "homepage": null,
                 "id": 59983764,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-10-28T06:04:00Z",
+                "open_issues": 18,
                 "owner": "libindic",
                 "repo": "indic-trans",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -348,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for indic script transliteration",
+                "homepage": null,
                 "id": 93286921,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:43:15Z",
+                "open_issues": 8,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -364,12 +571,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Efficient and easy to use transliteration for Indian languages",
+                "homepage": "http://bpraneeth.com/projects/",
                 "id": 193508170,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-07T14:36:24Z",
+                "open_issues": 0,
                 "owner": "notAI-tech",
                 "repo": "DeepTranslit",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "deep-learning",
+                  "english",
+                  "hindi",
+                  "hindi-english",
+                  "kannada",
+                  "lstm",
+                  "malayalam",
+                  "marathi",
+                  "tamil",
+                  "telugu",
+                  "transliteration"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -387,12 +611,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.",
+                "homepage": "https://coqui.ai",
                 "id": 344354127,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2024-03-11T07:55:56Z",
+                "open_issues": 106,
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2606
+                "stars": 2606,
+                "topics": [
+                  "asr",
+                  "automatic-speech-recognition",
+                  "deep-learning",
+                  "speech-recognition",
+                  "speech-recognition-api",
+                  "speech-recognizer",
+                  "speech-to-text",
+                  "stt",
+                  "tensorflow",
+                  "voice-recognition"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -403,12 +643,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source speech to text models for Indic Languages",
+                "homepage": null,
                 "id": 348604930,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-09-16T06:05:39Z",
+                "open_issues": 8,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 328
+                "stars": 328,
+                "topics": [
+                  "indic-languages",
+                  "speech-recognition",
+                  "speech-recognition-model",
+                  "stt"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -419,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script to compile and install Tamil TTS system from IITM donlab",
+                "homepage": null,
                 "id": 104125057,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-12T09:01:58Z",
+                "open_issues": 1,
                 "owner": "tshrinivasan",
                 "repo": "tamil-tts-install",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -435,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tamil Speech Recognizer (OFFLINE) - AM & LM Models for CMU Sphinx",
+                "homepage": null,
                 "id": 225889125,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-12-04T16:49:51Z",
+                "open_issues": 1,
                 "owner": "vasurobo",
                 "repo": "tamil-speech-recognition",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -458,12 +718,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finite-state script normalization and processing utilities",
+                "homepage": null,
                 "id": 318338748,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T15:21:46Z",
+                "open_issues": 35,
                 "owner": "google-research",
                 "repo": "nisaba",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "bengali",
+                  "brahmic-scripts",
+                  "devanagari",
+                  "finite-state",
+                  "finite-state-automata",
+                  "finite-state-transducers",
+                  "grammars",
+                  "gujarati",
+                  "gurmukhi",
+                  "indic-languages",
+                  "kannada",
+                  "malayalam",
+                  "oriya",
+                  "pynini",
+                  "sinhala",
+                  "tamil",
+                  "telugu",
+                  "unicode",
+                  "unicode-normalization",
+                  "writing-systems"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -474,12 +760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Avalokitam: Tamil Prosody Analyzer",
+                "homepage": "http://www.avalokitam.com",
                 "id": 13547746,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2026-06-25T00:22:03Z",
+                "open_issues": 3,
                 "owner": "virtualvinodh",
                 "repo": "avalokitam",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -497,12 +788,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indian Language Tagger and Chunker (Hindi, Telugu, Tamil, Marathi, Punjabi, Kanada, Malayalam, Urdu, Bengali)",
+                "homepage": null,
                 "id": 109350464,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-02T06:14:51Z",
+                "open_issues": 9,
                 "owner": "avineshpvs",
                 "repo": "indic_tagger",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "bengali",
+                  "chunker",
+                  "hindi",
+                  "indian-languages",
+                  "kannada",
+                  "malayalam",
+                  "marathi",
+                  "pos-tagger",
+                  "punjabi",
+                  "tagger",
+                  "telugu",
+                  "urdu"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -513,12 +822,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for converting numbers to words for all Indian Languages.",
+                "homepage": null,
                 "id": 210349346,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-23T12:48:41Z",
+                "open_issues": 0,
                 "owner": "raj-sutariya",
                 "repo": "indic-num2words",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "indian-languages",
+                  "indic",
+                  "nlp",
+                  "preprocessing",
+                  "python",
+                  "speech-processing"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -529,12 +850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tamilinaiya Spellchecker",
+                "homepage": null,
                 "id": 291080086,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-10-19T08:26:08Z",
+                "open_issues": 1,
                 "owner": "tshrinivasan",
                 "repo": "Tamilinaiya-Spellchecker",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -545,12 +871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for multilingual punctuation restoration for EACL",
+                "homepage": null,
                 "id": 272563955,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-13T13:39:45Z",
+                "open_issues": 9,
                 "owner": "VarnithChordia",
                 "repo": "Multlingual_Punctuation_restoration",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -561,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 178508170,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-03-30T04:24:17Z",
+                "open_issues": 0,
                 "owner": "ravi-annaswamy",
                 "repo": "tamil_lm_spm_fai",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -590,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cholloadai corpus and model details",
+                "homepage": null,
                 "id": 434946498,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-06T08:14:54Z",
+                "open_issues": 0,
                 "owner": "vanangamudi",
                 "repo": "cholloadai-2021",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -613,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 268030629,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-20T12:56:22Z",
+                "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 855
+                "stars": 855,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -629,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 4228692,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-29T19:55:03Z",
+                "open_issues": 0,
                 "owner": "joshua-decoder",
                 "repo": "indian-parallel-corpora",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -645,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallel corpus mined from IndoWordnet synset gloss and examples",
+                "homepage": null,
                 "id": 250059371,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-16T15:34:54Z",
+                "open_issues": 1,
                 "owner": "anoopkunchukuttan",
                 "repo": "indowordnet_parallel",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -666,12 +1022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Language-Agnostic SEntence Representations",
+                    "homepage": null,
                     "id": 138050436,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-02T20:24:47Z",
+                    "open_issues": 49,
                     "owner": "facebookresearch",
                     "repo": "LASER",
-                    "stars": 3660
+                    "stars": 3660,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -682,12 +1043,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A multilingual parallel corpus created from translations of the Bible.",
+                    "homepage": null,
                     "id": 44336896,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2025-05-19T16:45:56Z",
+                    "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": [
+                      "bible",
+                      "bible-corpus",
+                      "corpus",
+                      "multilingual",
+                      "translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -705,12 +1077,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 235754905,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-01-04T16:29:54Z",
+                    "open_issues": 1,
                     "owner": "nlpcuom",
                     "repo": "English-Tamil-Parallel-Corpus",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -728,12 +1105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 305330105,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2022-05-05T10:57:20Z",
+                    "open_issues": 1,
                     "owner": "project-anuvaad",
                     "repo": "anuvaad-parallel-corpus",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -748,12 +1130,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The data have been obtained from order papers of government of Sri Lanka, cleaned and then aligned. Reference code: O.P. 3983- T- C_A and O.P.-3991-3993 - T - C_A (1133 phrase pairs)",
+                    "homepage": null,
                     "id": 189213143,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-05-29T11:39:58Z",
+                    "open_issues": 0,
                     "owner": "nlpc-uom",
                     "repo": "Sinhala-Tamil-Aligned-Parallel-Corpus",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -764,12 +1151,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " This Github project provides dataset and source code for our paper \"Neural Machine Translation for English-Tamil\" which was accepted in WMT in EMNLP 2018.",
+                    "homepage": null,
                     "id": 146978689,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2018-09-01T07:43:01Z",
+                    "open_issues": 0,
                     "owner": "precog-iiith",
                     "repo": "MIDAS-NMT-English-Tamil",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -792,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. For each language, the dataset includes a large collection of native script Wikipedia text, a romanization lexicon of words in the native script with attested romanizations, and some full sentence parallel data in both a native script of the language and the basic Latin alphabet.",
+                "homepage": null,
                 "id": 241705901,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-27T22:38:33Z",
+                "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -808,12 +1205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 241075632,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2022-12-08T07:25:48Z",
+                "open_issues": 7,
                 "owner": "fbenites",
                 "repo": "TRANSLIT",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -824,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 332701781,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-09T15:52:21Z",
+                "open_issues": 1,
                 "owner": "anoopkunchukuttan",
                 "repo": "indic_transliteration_analysis",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -840,12 +1247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 308128610,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-20T15:00:46Z",
+                "open_issues": 0,
                 "owner": "narVidhai",
                 "repo": "Thirukkural-Lexicon",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -865,12 +1277,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus (CC0 Licensed)",
+                    "homepage": null,
                     "id": 236877571,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-14T21:59:06Z",
+                    "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "covost",
-                    "stars": 401
+                    "stars": 401,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -881,12 +1298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 381652246,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2022-11-23T11:31:54Z",
+                    "open_issues": 10,
                     "owner": "Open-Speech-EkStep",
                     "repo": "ULCA-asr-dataset-corpus",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -904,12 +1326,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "CVSS: A Massively Multilingual Speech-to-Speech Translation Corpus",
+                    "homepage": null,
                     "id": 444575575,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2022-08-26T02:18:57Z",
+                    "open_issues": 2,
                     "owner": "google-research-datasets",
                     "repo": "cvss",
-                    "stars": 220
+                    "stars": 220,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -920,12 +1347,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages",
+                    "homepage": null,
                     "id": 446371395,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2022-10-12T04:35:40Z",
+                    "open_issues": 1,
                     "owner": "frozentoad9",
                     "repo": "CMST",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -943,12 +1375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Massively multilingual pronunciation mining",
+                    "homepage": null,
                     "id": 751881394,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-07T15:48:50Z",
+                    "open_issues": 0,
                     "owner": "kylebgorman",
                     "repo": "wikipron",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -966,12 +1403,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Abuse Detection In Multilingual Audio",
+                    "homepage": null,
                     "id": 459904749,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-05-09T08:05:11Z",
+                    "open_issues": 0,
                     "owner": "ShareChatAI",
                     "repo": "ADIMA",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -994,12 +1436,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chatbot_ner: Named Entity Recognition for chatbots.",
+                "homepage": "https://haptik.ai/",
                 "id": 84914171,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-01T12:39:47Z",
+                "open_issues": 28,
                 "owner": "hellohaptik",
                 "repo": "chatbot_ner",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "chatbot",
+                  "chatbot-ner",
+                  "chatbots",
+                  "elasticsearch",
+                  "entity",
+                  "gazetteer",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "ner",
+                  "nlp",
+                  "nlp-library"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1010,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This scripts will clasify given nouns ",
+                "homepage": null,
                 "id": 315255037,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-23T09:00:45Z",
+                "open_issues": 0,
                 "owner": "sarves",
                 "repo": "Tamil-Noun-Classifier",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1026,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 169686972,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-03T10:04:55Z",
+                "open_issues": 0,
                 "owner": "nlpcuom",
                 "repo": "Sinhala-and-Tamil-NER",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1049,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description  Describes the IndicNLP corpus and associated datasets",
+                "homepage": null,
                 "id": 260000408,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-16T13:05:27Z",
+                "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1065,12 +1539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dataset for Troll Classification of Tamil Memes",
+                "homepage": null,
                 "id": 367839918,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2021-05-16T09:55:02Z",
+                "open_issues": 0,
                 "owner": "bharathichezhiyan",
                 "repo": "TamilMemes",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1081,12 +1560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dravidian Code-Mixed Offensive Span Identification Dataset",
+                "homepage": null,
                 "id": 326388984,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-25T11:21:48Z",
+                "open_issues": 0,
                 "owner": "manikandan-ravikiran",
                 "repo": "DOSA",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1106,12 +1590,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Recognizing handwritten character image using CNN with the CNN model trained using EMNIST dataset. The work is extended by adding 12 more characters from Tamil language to the dataset and prediction is made.",
+                    "homepage": null,
                     "id": 132318914,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-09-22T08:32:58Z",
+                    "open_issues": 1,
                     "owner": "anandhkishan",
                     "repo": "Handwritten-Character-Recognition-using-CNN",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1122,12 +1611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ஆழக்கற்றலுக்கு உகந்த தமிழ் உயிரெழுத்துக்களின் வரைபடம் தரவு",
+                    "homepage": null,
                     "id": 130955869,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-03T17:55:40Z",
+                    "open_issues": 0,
                     "owner": "Ezhil-Language-Foundation",
                     "repo": "acchu-tamilocr-dataset",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1145,12 +1639,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 397260234,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2023-01-27T09:39:48Z",
+                    "open_issues": 0,
                     "owner": "project-anuvaad",
                     "repo": "anuvaad-ocr-corpus",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1173,12 +1672,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neural Based POS tagger for the Tamil Language",
+                "homepage": "http://nlp-tools.uom.lk/thamizhi-pos/",
                 "id": 315714981,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-24T18:17:03Z",
+                "open_issues": 1,
                 "owner": "nlpcuom",
                 "repo": "ThamizhiPOSt",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "morphological-analysis",
+                  "morphology",
+                  "nlp-resources",
+                  "tamil"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1201,24 +1710,43 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A sentiment classifier on mixed language (and mixed script) reviews in Tamil, Malayalam and English",
+                    "homepage": null,
                     "id": 274101386,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-04-09T10:05:28Z",
+                    "open_issues": 2,
                     "owner": "oligoglot",
                     "repo": "theedhum-nandrum",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "classification",
+                      "logistic-regression",
+                      "lstm",
+                      "malayalam",
+                      "mixed-language",
+                      "sentiment-classifier",
+                      "sgd",
+                      "tamil"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 366617067,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-02-05T09:34:37Z",
+                "open_issues": 0,
                 "owner": "bharathichezhiyan",
                 "repo": "DravidianCodeMix-Dataset",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1229,12 +1757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 504108974,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-22T07:01:42Z",
+                "open_issues": 2,
                 "owner": "ShareChatAI",
                 "repo": "MACD",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1245,12 +1778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 173814769,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-01-16T17:53:59Z",
+                "open_issues": 1,
                 "owner": "Jenarthanan14",
                 "repo": "Tamil-Sinhala-Emotion-Analysis",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1261,12 +1799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion",
+                "homepage": null,
                 "id": 367836125,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-16T09:39:40Z",
+                "open_issues": 0,
                 "owner": "bharathichezhiyan",
                 "repo": "HopeEDI",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1284,12 +1827,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaborative catalog of NLP resources for Indic languages",
+                "homepage": "https://ai4bharat.github.io/indicnlp_catalog",
                 "id": 205125725,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
+                "open_issues": 150,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
-                "stars": 638
+                "stars": 638,
+                "topics": [
+                  "awesome-list",
+                  "corpora",
+                  "indian-languages",
+                  "libraries",
+                  "models"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1300,12 +1854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description  Describes the IndicNLP corpus and associated datasets",
+                "homepage": null,
                 "id": 260000408,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-16T13:05:27Z",
+                "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1316,12 +1875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cite: http://www.aclweb.org/anthology/W/W17/W17-08.pdf#page=103",
+                "homepage": null,
                 "id": 92169485,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-05-23T22:24:06Z",
+                "open_issues": 0,
                 "owner": "syedsarfarazakhtar",
                 "repo": "Word-Similarity-Datasets-for-Indian-Languages",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1339,12 +1903,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the code, data, and models of the paper titled \"XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages\" published in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021.",
+                "homepage": "https://aclanthology.org/2021.findings-acl.413/",
                 "id": 380439665,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-26T06:20:04Z",
+                "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "xl-sum",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "abstractive-summarization",
+                  "abstractive-text-summarization",
+                  "dataset",
+                  "deep-learning",
+                  "low-resource-languages",
+                  "low-resource-summarization",
+                  "low-resource-text-summarizarion",
+                  "machine-learning",
+                  "multilingual",
+                  "multilingual-summarization",
+                  "multilingual-text-summarization",
+                  "multilinguality",
+                  "summarization-corpora",
+                  "summarization-dataset",
+                  "text-summarisation",
+                  "text-summarization",
+                  "text-summarization-dataset",
+                  "text-summarization-model"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1355,12 +1943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset and baseline for ACL 2019 paper \"XQA: A Cross-lingual Open-domain Question Answering Dataset\"",
+                "homepage": null,
                 "id": 195161474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-16T14:38:29Z",
+                "open_issues": 2,
                 "owner": "thunlp",
                 "repo": "XQA",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1371,12 +1964,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages",
+                "homepage": null,
                 "id": 466246598,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-01T19:07:19Z",
+                "open_issues": 0,
                 "owner": "tushar117",
                 "repo": "XAlign",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cross-lingual-text-generation",
+                  "machine-learning",
+                  "nlg",
+                  "nlp",
+                  "xalign",
+                  "xf2t"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1394,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.",
+                "homepage": "https://sites.research.google/xtreme",
                 "id": 253934093,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-04T11:37:25Z",
+                "open_issues": 29,
                 "owner": "google-research",
                 "repo": "xtreme",
-                "stars": 651
+                "stars": 651,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1410,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools and Modeling Code for the MASSIVE dataset",
+                "homepage": null,
                 "id": 482010194,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-28T22:22:39Z",
+                "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 565
+                "stars": 565,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             },
@@ -1426,12 +2041,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages",
+                "homepage": "https://aclanthology.org/2021.mrl-1.14/",
                 "id": 411389528,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-02-28T10:56:44Z",
+                "open_issues": 0,
                 "owner": "rajaswa",
                 "repo": "indic-syntax-evaluation",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "dataset",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "indic-nlp",
+                  "syntax",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
             }
@@ -1454,12 +2081,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collaborative catalog of NLP resources for Indic languages",
+                    "homepage": "https://ai4bharat.github.io/indicnlp_catalog",
                     "id": 205125725,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
+                    "open_issues": 150,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
-                    "stars": 638
+                    "stars": 638,
+                    "topics": [
+                      "awesome-list",
+                      "corpora",
+                      "indian-languages",
+                      "libraries",
+                      "models"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1470,12 +2108,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "IndicLink is a Multilingual Fact Linking (MFL) dataset of sentences and a set of WikiData facts (subject; relation; object) contained in each sentence. IndicLink contains sentences from English and 6 Indian languages - Hindi, Telugu, Tamil, Urdu, Gujarati and Assamese. The correct facts are chosen from an oracle of 4.7 million Wikidata facts with fact labels/descriptions available in these 7 languages. The dataset is intended only to act as a test set to evaluate models trained for the task of MFL. For more details, please see https://arxiv.org/abs/2109.14364",
+                    "homepage": null,
                     "id": 452384897,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-08T05:17:44Z",
+                    "open_issues": 0,
                     "owner": "google-research-datasets",
                     "repo": "IndicLink",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1493,12 +2136,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 136522422,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-06-20T14:05:54Z",
+                    "open_issues": 0,
                     "owner": "sumanbanerjee1",
                     "repo": "Code-Mixed-Dialog",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "code-mixing",
+                      "hred",
+                      "seq2seq"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1516,12 +2168,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.",
+                    "homepage": "https://github.com/google-research-datasets/wit",
                     "id": 342013716,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2024-09-27T20:55:42Z",
+                    "open_issues": 1,
                     "owner": "google-research-datasets",
                     "repo": "wit",
-                    "stars": 1113
+                    "stars": 1113,
+                    "topics": [
+                      "cc-by-sa-3",
+                      "machine-learning",
+                      "multilingual",
+                      "multimodal",
+                      "nlp",
+                      "wikipedia"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1532,12 +2196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 343067255,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-02-28T10:32:38Z",
+                    "open_issues": 0,
                     "owner": "praveenraj0904",
                     "repo": "tamillyricscorpus",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1548,12 +2217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multilingual Multimodal Machine Translation for Dravidian Languages utilizing Phonetic Transcription",
+                    "homepage": null,
                     "id": 367846747,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-16T11:29:53Z",
+                    "open_issues": 0,
                     "owner": "bharathichezhiyan",
                     "repo": "multimodalmachinetranslation-Tamil",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1571,12 +2245,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning",
+                    "homepage": null,
                     "id": 259389467,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2021-02-04T01:56:39Z",
+                    "open_issues": 1,
                     "owner": "cambridgeltl",
                     "repo": "xcopa",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1594,12 +2273,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Description  Describes the IndicNLP corpus and associated datasets",
+                    "homepage": null,
                     "id": 260000408,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-16T13:05:27Z",
+                    "open_issues": 10,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_corpus",
-                    "stars": 206
+                    "stars": 206,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1610,12 +2294,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ThamizhiMorph: A Tamil Morphological Analyser and Generator",
+                    "homepage": "http://nlp-tools.uom.lk/thamizhi-morph",
                     "id": 168574949,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-06T20:35:12Z",
+                    "open_issues": 2,
                     "owner": "sarves",
                     "repo": "thamizhi-morph",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "finite-state-transducers",
+                      "foma",
+                      "morphological-analyser",
+                      "morphological-generator",
+                      "stanza",
+                      "tamil-language",
+                      "tamil-nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1633,12 +2330,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vadachol / Sanskrit words to Tamil words conversion data",
+                    "homepage": null,
                     "id": 273143221,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-12-22T12:49:21Z",
+                    "open_issues": 1,
                     "owner": "narVidhai",
                     "repo": "Sanskrit-To-Pure-Tamil-Dictionary",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "tamil"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 },
@@ -1649,12 +2353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Thamizhi- Validator",
+                    "homepage": null,
                     "id": 30366803,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-11T09:22:26Z",
+                    "open_issues": 0,
                     "owner": "sarves",
                     "repo": "thamizhi-preprocessor",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
                 }
@@ -1670,15 +2379,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:39:47.871Z",
+    "last_updated": "2026-08-29T04:55:57.476Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome List of Tamil NLP & AI Resources",
+      "homepage": "https://narvidhai.github.io/tamil-nlp-catalog",
       "id": 306596068,
       "language": "HTML",
+      "license": null,
       "last_commit": "2023-04-06T09:47:10Z",
+      "open_issues": 4,
       "owner": "narVidhai",
       "repo": "tamil-nlp-catalog",
-      "stars": 119
+      "stars": 119,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dravidian",
+        "tamil",
+        "tamil-nlp"
+      ]
     },
     "original_repository_sha": "bb2dde46e3442c18d7cc90ea6edb9ae31e364ac7",
     "enhanced_repository": "enhansome/enhansome-tamil-nlp-catalog",
