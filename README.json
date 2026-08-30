@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40047,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -240,7 +240,7 @@
                 "open_issues": 40,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 796,
+                "stars": 798,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -620,7 +620,7 @@
                 "open_issues": 106,
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2606,
+                "stars": 2605,
                 "topics": [
                   "asr",
                   "automatic-speech-recognition",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:16:31.470Z",
+    "last_updated": "2026-08-30T05:40:13.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
