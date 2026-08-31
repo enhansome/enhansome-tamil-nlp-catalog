@@ -1052,7 +1052,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:40:13.463Z",
+    "last_updated": "2026-08-31T05:55:49.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
