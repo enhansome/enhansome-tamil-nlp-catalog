@@ -372,7 +372,7 @@
                     "open_issues": 55,
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
-                    "stars": 1260,
+                    "stars": 1261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -463,7 +463,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -517,7 +517,7 @@
                 "open_issues": 37,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1567,
+                "stars": 1569,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:55:49.049Z",
+    "last_updated": "2026-09-01T05:29:17.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
