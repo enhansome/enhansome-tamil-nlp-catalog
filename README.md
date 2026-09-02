@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,199 | 🐛 684 | 🌐 Python | 📅 2026-08-26
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,201 | 🐛 684 | 🌐 Python | 📅 2026-08-26
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,695 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,696 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -134,7 +134,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Speech
 
-* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,605 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
+* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,606 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
 * [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 8 | 📅 2022-09-16
 * [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2018-09-12
 * [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2019-12-04
@@ -335,7 +335,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Natural Language Generation
 
-* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 277 | 🐛 0 | 🌐 Python | 📅 2024-03-26
+* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 278 | 🐛 0 | 🌐 Python | 📅 2024-03-26
 * [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2021-11-16 - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
 * [XAlign: Cross-lingual Fact-to-Text Alignment and Generation](https://github.com/tushar117/XAlign) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-01-01 - {2022, [Paper](https://drive.google.com/file/d/1M9FRYQ-ir9ccfsiXXi1p7EcrELEJGJ_l/preview)}
 
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
