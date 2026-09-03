@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,201 | 🐛 684 | 🌐 Python | 📅 2026-08-26
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,203 | 🐛 684 | 🌐 Python | 📅 2026-08-26
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,696 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,698 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -142,7 +142,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Grammar
 
-* [Google Nisaba (Text Processing Grammar)](https://github.com/google-research/nisaba/blob/main/nisaba/brahmic/README.md) ⭐ 52 | 🐛 35 | 🌐 Python | 📅 2026-08-20
+* [Google Nisaba (Text Processing Grammar)](https://github.com/google-research/nisaba/blob/main/nisaba/brahmic/README.md) ⭐ 52 | 🐛 36 | 🌐 Python | 📅 2026-09-02
 * [Tamil Prosody (யாப்பிலக்கணம்) Analyzer](https://github.com/virtualvinodh/avalokitam) ⭐ 29 | 🐛 3 | 🌐 Vue | 📅 2026-06-25
 
 ### Miscellaneous
@@ -254,7 +254,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Named Entity Recognition
 
-* [Chatbot NER](https://github.com/hellohaptik/chatbot_ner/) ⭐ 334 | 🐛 28 | 🌐 Python | 📅 2026-04-01
+* [Chatbot NER](https://github.com/hellohaptik/chatbot_ner/) ⭐ 335 | 🐛 28 | 🌐 Python | 📅 2026-04-01
 * [Tamil Noun Classifier](https://github.com/sarves/Tamil-Noun-Classifier) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2020-11-23
 * [University of Moratuwa NER](https://github.com/nlpcuom/Sinhala-and-Tamil-NER) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2019-05-03 - {2019}
 * [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
