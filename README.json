@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40044,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -727,7 +727,7 @@
                 "open_issues": 36,
                 "owner": "google-research",
                 "repo": "nisaba",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "bengali",
                   "brahmic-scripts",
@@ -1114,7 +1114,7 @@
                     "open_issues": 1,
                     "owner": "project-anuvaad",
                     "repo": "anuvaad-parallel-corpus",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2029,7 +2029,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:04:14.276Z",
+    "last_updated": "2026-09-08T05:01:12.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
