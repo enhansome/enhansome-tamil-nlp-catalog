@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40043,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -420,7 +420,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2021-04-11T06:16:31Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "notAI-tech",
                     "repo": "Anuvaad",
                     "stars": 4,
@@ -620,7 +620,7 @@
                 "open_issues": 106,
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2606,
+                "stars": 2607,
                 "topics": [
                   "asr",
                   "automatic-speech-recognition",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:00:22.978Z",
+    "last_updated": "2026-09-12T04:52:21.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

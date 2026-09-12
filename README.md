@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,209 | 🐛 685 | 🌐 Python | 📅 2026-08-26
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,212 | 🐛 685 | 🌐 Python | 📅 2026-08-26
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -106,7 +106,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 * NMT
   * [EasyNMT](https://github.com/UKPLab/EasyNMT) ⭐ 1,261 | 🐛 55 | 🌐 Python | 📅 2023-12-21 - Collection of open source multilingual NMT models
   * [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2022-03-05
-  * [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2021-04-11 - {2020, mT5 model fine-tuned on public datasets}
+  * [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2021-04-11 - {2020, mT5 model fine-tuned on public datasets}
   * [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
 * Moses SMT
   * [IIT-B Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
@@ -134,7 +134,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Speech
 
-* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,606 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
+* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,607 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
 * [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 8 | 📅 2022-09-16
 * [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2018-09-12
 * [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2019-12-04
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
