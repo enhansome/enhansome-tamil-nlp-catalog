@@ -82,7 +82,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 * [ConceptNet](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,322 | 🐛 10 | 🌐 Python | 📅 2022-07-18
 * [GeoMM](https://github.com/anoopkunchukuttan/geomm) ⭐ 27 | 🐛 30 | 🌐 Python | 📅 2022-12-08
 * FastText
-  * [Multilingual Aligned](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 - {2017}
+  * [Multilingual Aligned](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 - {2017}
   * [Wikipedia-based](https://fasttext.cc/docs/en/pretrained-vectors.html) - {2016}
   * [CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) - {2017}
   * [AI4Bharat IndicFT](https://indicnlp.ai4bharat.org/indicft) - {2020}
@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,212 | 🐛 685 | 🌐 Python | 📅 2026-08-26
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,213 | 🐛 685 | 🌐 Python | 📅 2026-08-26
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -117,7 +117,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,571 | 🐛 37 | 🌐 Python | 📅 2026-08-04
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,570 | 🐛 37 | 🌐 Python | 📅 2026-08-04
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 211 | 🐛 8 | 🌐 Python | 📅 2026-09-08
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
