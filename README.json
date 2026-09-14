@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "awesome",
               "awesome-list",
@@ -463,7 +463,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2701,
+                    "stars": 2702,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -517,7 +517,7 @@
                 "open_issues": 37,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1052,7 +1052,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:11:54.241Z",
+    "last_updated": "2026-09-14T05:18:12.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
@@ -2391,7 +2391,7 @@
       "open_issues": 4,
       "owner": "narVidhai",
       "repo": "tamil-nlp-catalog",
-      "stars": 119,
+      "stars": 120,
       "topics": [
         "awesome",
         "awesome-list",

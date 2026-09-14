@@ -10,8 +10,8 @@ This list will serve as a catalog for all resources related to Tamil NLP.
 
 Note:
 
-* *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) ⭐ 119 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 for queries/feedback or to **contribute** resources/links.*
-* *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) ⭐ 119 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 to encourage this list to be active.*
+* *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) ⭐ 120 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 for queries/feedback or to **contribute** resources/links.*
+* *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) ⭐ 120 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 to encourage this list to be active.*
   * If you want to follow all latest updates in this catalog, press "watch" button on top-right of this repo.
 * *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,213 | 🐛 685 | 🌐 Python | 📅 2026-08-26
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,215 | 🐛 686 | 🌐 Python | 📅 2026-08-26
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,11 +113,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,701 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,702 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,570 | 🐛 37 | 🌐 Python | 📅 2026-08-04
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,571 | 🐛 37 | 🌐 Python | 📅 2026-08-04
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 211 | 🐛 8 | 🌐 Python | 📅 2026-09-08
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -187,7 +187,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   * Contains most open source datasets also as of March 2021
 * [OPUS Corpus](http://opus.nlpl.eu/) (Search en->ta)
   * Note: CC-Aligned overlaps with [CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix) ⚠️ Archived
-  * Contains [MultiCC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus) ⭐ 198 | 🐛 3 | 📅 2025-05-19, [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) ⚠️ Archived, and more...
+  * Contains [MultiCC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus) ⭐ 199 | 🐛 3 | 📅 2025-05-19, [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) ⚠️ Archived, and more...
 * [MultiIndicMT - WAT2021](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) / [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html#download)
   * Contains [PM India Corpus](http://data.statmt.org/pmindia), [Manathin Kural (CVIT-MkB)](http://preon.iiit.ac.in/~jerin/bhasha/), [NLPC-UoM Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 14 | 🐛 1 | 📅 2021-01-04, [Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz), [Charles University EnTam v2.0 Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 * EkStep Anuvaad
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
