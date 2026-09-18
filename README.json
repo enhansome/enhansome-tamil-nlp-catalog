@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40041,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -240,7 +240,7 @@
                 "open_issues": 40,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -514,7 +514,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-04T10:16:14Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "bootphon",
                 "repo": "phonemizer",
                 "stars": 1571,
@@ -1193,7 +1193,7 @@
                 "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
-                "stars": 211,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1912,7 +1912,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "xl-sum",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "abstractive-summarization",
                   "abstractive-text-summarization",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:08:15.191Z",
+    "last_updated": "2026-09-18T05:00:51.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

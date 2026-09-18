@@ -92,8 +92,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,219 | 🐛 686 | 🌐 Python | 📅 2026-09-15
-* [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,221 | 🐛 686 | 🌐 Python | 📅 2026-09-15
+* [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
 * AI4Bharat: [ALBERT](https://indicnlp.ai4bharat.org/indic-bert), [BART](https://github.com/AI4Bharat/indic-bart) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-07-20
@@ -117,7 +117,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,571 | 🐛 37 | 🌐 Python | 📅 2026-08-04
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,571 | 🐛 38 | 🌐 Python | 📅 2026-08-04
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 277 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-08
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -335,7 +335,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Natural Language Generation
 
-* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 278 | 🐛 0 | 🌐 Python | 📅 2024-03-26
+* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 279 | 🐛 0 | 🌐 Python | 📅 2024-03-26
 * [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2021-11-16 - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
 * [XAlign: Cross-lingual Fact-to-Text Alignment and Generation](https://github.com/tushar117/XAlign) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-01-01 - {2022, [Paper](https://drive.google.com/file/d/1M9FRYQ-ir9ccfsiXXi1p7EcrELEJGJ_l/preview)}
 
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
