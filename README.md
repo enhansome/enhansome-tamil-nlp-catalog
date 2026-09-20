@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,708 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,707 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -134,7 +134,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Speech
 
-* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,607 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
+* [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,606 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
 * [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 8 | 📅 2022-09-16
 * [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2018-09-12
 * [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2019-12-04
@@ -180,7 +180,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
+* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 855 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
 * [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29 - {2012}
 * [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16
 * [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
