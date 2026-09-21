@@ -81,7 +81,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3242,
+                "stars": 3243,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -219,7 +219,7 @@
                 "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1294,
+                "stars": 1293,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -372,7 +372,7 @@
                     "open_issues": 55,
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
-                    "stars": 1262,
+                    "stars": 1261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2008,7 +2008,7 @@
                 "open_issues": 29,
                 "owner": "google-research",
                 "repo": "xtreme",
-                "stars": 651,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:13:17.328Z",
+    "last_updated": "2026-09-21T05:17:34.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
