@@ -81,7 +81,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3243,
+                "stars": 3244,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40042,
+                "stars": 40043,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -1052,7 +1052,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:17:34.969Z",
+    "last_updated": "2026-09-22T05:15:51.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
