@@ -81,7 +81,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3244,
+                "stars": 3245,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40043,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -219,7 +219,7 @@
                 "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1293,
+                "stars": 1292,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -463,7 +463,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2707,
+                    "stars": 2710,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -556,7 +556,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T12:13:44Z",
-                "open_issues": 8,
+                "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
                 "stars": 212,
@@ -1527,7 +1527,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1836,7 +1836,7 @@
                 "open_issues": 150,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "awesome-list",
                   "corpora",
@@ -1863,7 +1863,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1912,7 +1912,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "xl-sum",
-                "stars": 280,
+                "stars": 279,
                 "topics": [
                   "abstractive-summarization",
                   "abstractive-text-summarization",
@@ -2090,7 +2090,7 @@
                     "open_issues": 150,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
-                    "stars": 639,
+                    "stars": 640,
                     "topics": [
                       "awesome-list",
                       "corpora",
@@ -2282,7 +2282,7 @@
                     "open_issues": 10,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_corpus",
-                    "stars": 207,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:15:51.404Z",
+    "last_updated": "2026-09-23T05:00:17.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

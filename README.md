@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,225 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,228 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,13 +113,13 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,707 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,710 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
 * [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,570 | 🐛 38 | 🌐 Python | 📅 2026-08-04
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 277 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
-* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-08
+* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 11 | 🌐 Python | 📅 2026-09-08
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
 * [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
 * [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
@@ -263,7 +263,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Text Classification
 
-* [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16
+* [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16
 
 * [A Dataset for Troll Classification of TamilMemes, 2020](https://github.com/bharathichezhiyan/TamilMemes) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-16
 
@@ -327,15 +327,15 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Lexical Resources
 
-* [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) ⭐ 639 | 🐛 150 | 📅 2024-12-14 - {2014}
-* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16
+* [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) ⭐ 640 | 🐛 150 | 📅 2024-12-14 - {2014}
+* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16
 * [IIIT-H Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23
 * [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
 * [AU-KBC WordNet](http://www.au-kbc.org/nlp/lex_re.html)
 
 ### Natural Language Generation
 
-* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2024-03-26
+* [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum) ⭐ 279 | 🐛 0 | 🌐 Python | 📅 2024-03-26
 * [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2021-11-16 - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
 * [XAlign: Cross-lingual Fact-to-Text Alignment and Generation](https://github.com/tushar117/XAlign) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-01-01 - {2022, [Paper](https://drive.google.com/file/d/1M9FRYQ-ir9ccfsiXXi1p7EcrELEJGJ_l/preview)}
 
@@ -350,7 +350,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Miscellaneous NLP Datasets
 
 * **Natural Language Inference**
-  * [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) ⭐ 639 | 🐛 150 | 📅 2024-12-14 - {2020}
+  * [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) ⭐ 640 | 🐛 150 | 📅 2024-12-14 - {2020}
   * [IndicLink - Multilingual Fact Linking](https://github.com/google-research-datasets/IndicLink) ⚠️ Archived - {2022}
   * [XNLI 2019](https://www.gujaratresearchsociety.in/index.php/JGRS/article/view/3426) - Request via email
   * [AI4Bharat Cross-Lingual Sentence Retrieval](https://indicnlp.ai4bharat.org/indic-glue/)
@@ -378,7 +378,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   * [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04 (XCOPA)
 
 * MorphAnalysis
-  * [AI4Bharat MorphAnalyzer](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16
+  * [AI4Bharat MorphAnalyzer](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16
   * [ThamizhiMorph](https://github.com/sarves/thamizhi-morph) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-05-06
 
 * **Pure Tamil**
@@ -391,9 +391,9 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ## **Other Important Resources**
 
-* [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) ⭐ 639 | 🐛 150 | 📅 2024-12-14 by AI4Bharat
+* [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) ⭐ 640 | 🐛 150 | 📅 2024-12-14 by AI4Bharat
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
