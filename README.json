@@ -219,7 +219,7 @@
                 "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1292,
+                "stars": 1291,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -649,7 +649,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2022-09-16T06:05:39Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
                 "stars": 329,
@@ -2029,7 +2029,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:00:17.646Z",
+    "last_updated": "2026-09-24T05:11:22.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
