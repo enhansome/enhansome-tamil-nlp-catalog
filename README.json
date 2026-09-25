@@ -81,7 +81,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3245,
+                "stars": 3244,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40042,
+                "stars": 40045,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -517,7 +517,7 @@
                 "open_issues": 38,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -963,7 +963,7 @@
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 855,
+                "stars": 854,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1527,7 +1527,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1863,7 +1863,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2282,7 +2282,7 @@
                     "open_issues": 10,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_corpus",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:11:22.529Z",
+    "last_updated": "2026-09-25T05:13:32.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
