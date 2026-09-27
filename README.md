@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,228 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -342,7 +342,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Benchmarks
 
 * [XTREME - Multi-task Benchmark for Cross-lingual Generalization](https://github.com/google-research/xtreme) ⚠️ Archived
-* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 570 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
+* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 571 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
 * [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) ⭐ 16 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-02-28 - {2021}
 * [XTREME-S: Evaluating Cross-lingual Speech Representations](https://huggingface.co/datasets/google/xtreme_s) - {[Paper](https://arxiv.org/pdf/2203.10752.pdf)}
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
