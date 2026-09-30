@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 4,
             "owner": "narVidhai",
             "repo": "tamil-nlp-catalog",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -81,7 +81,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3247,
+                "stars": 3250,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -155,7 +155,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -514,10 +514,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T08:11:13Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1571,
+                "stars": 1572,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -959,7 +959,7 @@
                 "id": 268030629,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2024-08-20T12:56:22Z",
+                "last_commit": "2026-09-29T12:52:59Z",
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
@@ -1086,7 +1086,7 @@
                     "open_issues": 1,
                     "owner": "nlpcuom",
                     "repo": "English-Tamil-Parallel-Corpus",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:59:55.645Z",
+    "last_updated": "2026-09-30T05:49:42.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
@@ -2391,7 +2391,7 @@
       "open_issues": 4,
       "owner": "narVidhai",
       "repo": "tamil-nlp-catalog",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "awesome",
         "awesome-list",
