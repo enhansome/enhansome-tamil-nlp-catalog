@@ -113,11 +113,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,711 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,713 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,572 | 🐛 40 | 🌐 Python | 📅 2026-09-28
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,572 | 🐛 37 | 🌐 Python | 📅 2026-09-30
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 277 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 11 | 🌐 Python | 📅 2026-09-08
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -180,7 +180,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-29
+* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
 * [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29 - {2012}
 * [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16
 * [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

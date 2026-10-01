@@ -192,7 +192,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40045,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -463,7 +463,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2711,
+                    "stars": 2713,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -513,8 +513,8 @@
                 "id": 56728069,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T08:11:13Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-30T10:18:04Z",
+                "open_issues": 37,
                 "owner": "bootphon",
                 "repo": "phonemizer",
                 "stars": 1572,
@@ -959,7 +959,7 @@
                 "id": 268030629,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T12:52:59Z",
+                "last_commit": "2026-09-30T11:43:56Z",
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
@@ -2379,7 +2379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:49:42.376Z",
+    "last_updated": "2026-10-01T06:22:42.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
