@@ -10,8 +10,8 @@ This list will serve as a catalog for all resources related to Tamil NLP.
 
 Note:
 
-* *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) ⭐ 121 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 for queries/feedback or to **contribute** resources/links.*
-* *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) ⭐ 121 | 🐛 4 | 🌐 HTML | 📅 2023-04-06 to encourage this list to be active.*
+* *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) for queries/feedback or to **contribute** resources/links.*
+* *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) to encourage this list to be active.*
   * If you want to follow all latest updates in this catalog, press "watch" button on top-right of this repo.
 * *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,230 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,694 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,693 | 🐛 10 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

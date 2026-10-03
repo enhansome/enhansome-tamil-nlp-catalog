@@ -4,71 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Please use GitHub Issues for queries/feedback or to contribute resources/links.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome List of Tamil NLP & AI Resources",
-            "homepage": "https://narvidhai.github.io/tamil-nlp-catalog",
-            "id": 306596068,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2023-04-06T09:47:10Z",
-            "open_issues": 4,
-            "owner": "narVidhai",
-            "repo": "tamil-nlp-catalog",
-            "stars": 121,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "dravidian",
-              "tamil",
-              "tamil-nlp"
-            ]
-          },
-          "first_seen": "2026-08-28T11:39:47.871Z"
-        },
-        {
-          "node_type": "item",
-          "title": "If you find this useful, please star this on GitHub to encourage this list to be active.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome List of Tamil NLP & AI Resources",
-            "homepage": "https://narvidhai.github.io/tamil-nlp-catalog",
-            "id": 306596068,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2023-04-06T09:47:10Z",
-            "open_issues": 4,
-            "owner": "narVidhai",
-            "repo": "tamil-nlp-catalog",
-            "stars": 121,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "dravidian",
-              "tamil",
-              "tamil-nlp"
-            ]
-          },
-          "first_seen": "2026-08-28T11:39:47.871Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
               "title": "Facebook MUSE",
-              "description": null,
+              "description": "facebookresearch/MUSE",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -89,7 +29,7 @@
             {
               "node_type": "item",
               "title": "ConceptNet",
-              "description": null,
+              "description": "commonsense/conceptnet-numberbatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -110,7 +50,7 @@
             {
               "node_type": "item",
               "title": "GeoMM",
-              "description": null,
+              "description": "anoopkunchukuttan/geomm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +82,7 @@
                 {
                   "node_type": "item",
                   "title": "Multilingual Aligned",
-                  "description": "{2017}",
+                  "description": "babylonhealth/fastText_multilingual",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -179,7 +119,7 @@
             {
               "node_type": "item",
               "title": "Multilingual BERT",
-              "description": null,
+              "description": "google-research/bert",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -227,7 +167,7 @@
             {
               "node_type": "item",
               "title": "TranKit",
-              "description": null,
+              "description": "nlp-uoregon/trankit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -266,7 +206,7 @@
             {
               "node_type": "item",
               "title": "Multilingual Text2Text",
-              "description": null,
+              "description": "artitw/text2text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +320,7 @@
                 {
                   "node_type": "item",
                   "title": "IIIT-H IndicMulti",
-                  "description": null,
+                  "description": "jerinphilip/ilmulti",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -450,7 +390,7 @@
                 {
                   "node_type": "item",
                   "title": "Python Translators",
-                  "description": null,
+                  "description": "UlionTse/translators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -463,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2693,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -504,7 +444,7 @@
             {
               "node_type": "item",
               "title": "Word Phonemizer",
-              "description": null,
+              "description": "bootphon/phonemizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +486,7 @@
             {
               "node_type": "item",
               "title": "Indic Transliteration",
-              "description": null,
+              "description": "indic-transliteration/indic_transliteration_py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,7 +507,7 @@
             {
               "node_type": "item",
               "title": "notAI.tech DeepTranslit",
-              "description": null,
+              "description": "notAI-tech/DeepTranslit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -639,7 +579,7 @@
             {
               "node_type": "item",
               "title": "Vākyānsh ASR",
-              "description": null,
+              "description": "Open-Speech-EkStep/vakyansh-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -665,7 +605,7 @@
             {
               "node_type": "item",
               "title": "IIT-M TTS",
-              "description": null,
+              "description": "tshrinivasan/tamil-tts-install",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -686,7 +626,7 @@
             {
               "node_type": "item",
               "title": "VasuRobo Speech Recognizer",
-              "description": null,
+              "description": "vasurobo/tamil-speech-recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -714,7 +654,7 @@
             {
               "node_type": "item",
               "title": "Google Nisaba (Text Processing Grammar)",
-              "description": null,
+              "description": "google-research/nisaba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Tamil Prosody (யாப்பிலக்கணம்) Analyzer",
-              "description": null,
+              "description": "virtualvinodh/avalokitam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +724,7 @@
             {
               "node_type": "item",
               "title": "Indic POS Tagger",
-              "description": null,
+              "description": "avineshpvs/indic_tagger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -818,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Number To Words",
-              "description": null,
+              "description": "raj-sutariya/indic-num2words",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -846,7 +786,7 @@
             {
               "node_type": "item",
               "title": "Tamilinaiya Spell Checker",
-              "description": null,
+              "description": "tshrinivasan/Tamilinaiya-Spellchecker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +828,7 @@
             {
               "node_type": "item",
               "title": "Tamil Language Model and Tokenizer",
-              "description": "{2018}",
+              "description": "ravi-annaswamy/tamil_lm_spm_fai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +890,7 @@
             {
               "node_type": "item",
               "title": "Tatoeba Wiki Back-translated data",
-              "description": null,
+              "description": "Helsinki-NLP/Tatoeba-Challenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -971,7 +911,7 @@
             {
               "node_type": "item",
               "title": "MTurks Crowd-sourced",
-              "description": "{2012}",
+              "description": "joshua-decoder/indian-parallel-corpora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -992,7 +932,7 @@
             {
               "node_type": "item",
               "title": "IndoWordNet",
-              "description": null,
+              "description": "anoopkunchukuttan/indowordnet_parallel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +958,7 @@
                 {
                   "node_type": "item",
                   "title": "Note: CC-Aligned overlaps with CommonCrawl-Matrix",
-                  "description": null,
+                  "description": "facebookresearch/LASER",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1031,7 +971,7 @@
                     "open_issues": 49,
                     "owner": "facebookresearch",
                     "repo": "LASER",
-                    "stars": 3660,
+                    "stars": 3659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1101,7 +1041,7 @@
                 {
                   "node_type": "item",
                   "title": "Parallel Corpora",
-                  "description": null,
+                  "description": "project-anuvaad/anuvaad-parallel-corpus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1180,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Google Dakshina Dataset",
-              "description": null,
+              "description": "google-research-datasets/dakshina",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1294,7 +1234,7 @@
                 {
                   "node_type": "item",
                   "title": "Ek-Step ULCA ASR dataset",
-                  "description": null,
+                  "description": "Open-Speech-EkStep/ULCA-asr-dataset-corpus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1432,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "Chatbot NER",
-              "description": null,
+              "description": "hellohaptik/chatbot_ner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1465,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "Tamil Noun Classifier",
-              "description": null,
+              "description": "sarves/Tamil-Noun-Classifier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1486,7 +1426,7 @@
             {
               "node_type": "item",
               "title": "University of Moratuwa NER",
-              "description": "{2019}",
+              "description": "nlpcuom/Sinhala-and-Tamil-NER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1514,7 +1454,7 @@
             {
               "node_type": "item",
               "title": "AI4Bharat News Article Classification",
-              "description": null,
+              "description": "AI4Bharat/indicnlp_corpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1535,7 +1475,7 @@
             {
               "node_type": "item",
               "title": "A Dataset for Troll Classification of TamilMemes, 2020",
-              "description": null,
+              "description": "bharathichezhiyan/TamilMemes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1635,7 +1575,7 @@
                 {
                   "node_type": "item",
                   "title": "Anuvaad OCR Corpus",
-                  "description": null,
+                  "description": "project-anuvaad/anuvaad-ocr-corpus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1668,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "ThamizhiPOSt",
-              "description": null,
+              "description": "nlpcuom/ThamizhiPOSt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1706,7 +1646,7 @@
                 {
                   "node_type": "item",
                   "title": "Implementations: Theedhum Nandrum",
-                  "description": null,
+                  "description": "oligoglot/theedhum-nandrum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1774,7 +1714,7 @@
             {
               "node_type": "item",
               "title": "ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis",
-              "description": null,
+              "description": "Jenarthanan14/Tamil-Sinhala-Emotion-Analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1823,7 +1763,7 @@
             {
               "node_type": "item",
               "title": "MTurks Bilngual Dictionary",
-              "description": "{2014}",
+              "description": "AI4Bharat/indicnlp_catalog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1850,7 +1790,7 @@
             {
               "node_type": "item",
               "title": "AI4Bharat Word Frequency Lists",
-              "description": null,
+              "description": "AI4Bharat/indicnlp_corpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1871,7 +1811,7 @@
             {
               "node_type": "item",
               "title": "IIIT-H Word Similarity Database",
-              "description": null,
+              "description": "syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1899,7 +1839,7 @@
             {
               "node_type": "item",
               "title": "XL-Sum: Abstractive Summarization",
-              "description": null,
+              "description": "csebuetnlp/xl-sum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1995,7 +1935,7 @@
             {
               "node_type": "item",
               "title": "XTREME - Multi-task Benchmark for Cross-lingual Generalization",
-              "description": null,
+              "description": "google-research/xtreme",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2037,7 +1977,7 @@
             {
               "node_type": "item",
               "title": "Vyākarana - Syntactic evaluation of language models",
-              "description": "{2021}",
+              "description": "rajaswa/indic-syntax-evaluation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2077,7 +2017,7 @@
                 {
                   "node_type": "item",
                   "title": "AI4Bharat Cross-lingual Semantic Textual Similarity",
-                  "description": "{2020}",
+                  "description": "AI4Bharat/indicnlp_catalog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2104,7 +2044,7 @@
                 {
                   "node_type": "item",
                   "title": "IndicLink - Multilingual Fact Linking",
-                  "description": "{2022}",
+                  "description": "google-research-datasets/IndicLink",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2132,7 +2072,7 @@
                 {
                   "node_type": "item",
                   "title": "Code-Mixed-Dialog 2018",
-                  "description": null,
+                  "description": "sumanbanerjee1/Code-Mixed-Dialog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2164,7 +2104,7 @@
                 {
                   "node_type": "item",
                   "title": "WIT : Wikipedia-based Image Text Dataset, 2021",
-                  "description": null,
+                  "description": "google-research-datasets/wit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2269,7 +2209,7 @@
                 {
                   "node_type": "item",
                   "title": "AI4Bharat MorphAnalyzer",
-                  "description": null,
+                  "description": "AI4Bharat/indicnlp_corpus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2290,7 +2230,7 @@
                 {
                   "node_type": "item",
                   "title": "ThamizhiMorph",
-                  "description": null,
+                  "description": "sarves/thamizhi-morph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2326,7 +2266,7 @@
                 {
                   "node_type": "item",
                   "title": "Indic to Pure Tamil",
-                  "description": null,
+                  "description": "narVidhai/Sanskrit-To-Pure-Tamil-Dictionary",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2349,7 +2289,7 @@
                 {
                   "node_type": "item",
                   "title": "Thamizhi Word Validator",
-                  "description": null,
+                  "description": "sarves/thamizhi-preprocessor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2379,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:00:12.036Z",
+    "last_updated": "2026-10-03T05:12:24.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
