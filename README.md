@@ -142,7 +142,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Grammar
 
-* [Google Nisaba (Text Processing Grammar)](https://github.com/google-research/nisaba/blob/main/nisaba/brahmic/README.md) ⭐ 53 | 🐛 36 | 🌐 Python | 📅 2026-09-02
+* [Google Nisaba (Text Processing Grammar)](https://github.com/google-research/nisaba/blob/main/nisaba/brahmic/README.md) ⭐ 54 | 🐛 36 | 🌐 Python | 📅 2026-09-02
 * [Tamil Prosody (யாப்பிலக்கணம்) Analyzer](https://github.com/virtualvinodh/avalokitam) ⭐ 29 | 🐛 3 | 🌐 Vue | 📅 2026-06-25
 
 ### Miscellaneous
@@ -180,7 +180,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 855 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
 * [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29 - {2012}
 * [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16
 * [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
@@ -342,7 +342,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Benchmarks
 
 * [XTREME - Multi-task Benchmark for Cross-lingual Generalization](https://github.com/google-research/xtreme) ⚠️ Archived
-* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 571 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
+* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 573 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
 * [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) ⭐ 16 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-02-28 - {2021}
 * [XTREME-S: Evaluating Cross-lingual Speech Representations](https://huggingface.co/datasets/google/xtreme_s) - {[Paper](https://arxiv.org/pdf/2203.10752.pdf)}
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
