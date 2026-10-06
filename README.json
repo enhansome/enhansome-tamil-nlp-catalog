@@ -499,7 +499,7 @@
                 "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1773,7 +1773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 640,
@@ -2027,7 +2027,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 150,
+                    "open_issues": 151,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 640,
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:42:59.790Z",
+    "last_updated": "2026-10-06T10:44:36.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
