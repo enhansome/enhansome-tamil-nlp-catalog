@@ -92,8 +92,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,227 | 🐛 688 | 🌐 Python | 📅 2026-09-21
-* [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,228 | 🐛 688 | 🌐 Python | 📅 2026-09-21
+* [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 40 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
 * AI4Bharat: [ALBERT](https://indicnlp.ai4bharat.org/indic-bert), [BART](https://github.com/AI4Bharat/indic-bart) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-07-20
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
