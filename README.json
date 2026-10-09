@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3257,
+                "stars": 3258,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -312,7 +312,7 @@
                     "open_issues": 55,
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
-                    "stars": 1261,
+                    "stars": 1260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -495,7 +495,7 @@
                 "id": 93286921,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T12:13:44Z",
+                "last_commit": "2026-10-09T04:07:16Z",
                 "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:29:34.382Z",
+    "last_updated": "2026-10-09T06:30:49.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
