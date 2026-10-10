@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3258,
+                "stars": 3261,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -95,7 +95,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1201,
+                    "stars": 1202,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -132,7 +132,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40044,
+                "stars": 40041,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2692,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -2117,7 +2117,7 @@
                     "open_issues": 1,
                     "owner": "google-research-datasets",
                     "repo": "wit",
-                    "stars": 1114,
+                    "stars": 1115,
                     "topics": [
                       "cc-by-sa-3",
                       "machine-learning",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:30:49.709Z",
+    "last_updated": "2026-10-10T06:13:00.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
