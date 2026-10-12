@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3263,
+                "stars": 3264,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40038,
+                "stars": 40037,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2692,
+                    "stars": 2693,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -992,7 +992,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -1773,7 +1773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 640,
@@ -2027,7 +2027,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 151,
+                    "open_issues": 152,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 640,
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:11:45.349Z",
+    "last_updated": "2026-10-12T06:19:57.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
