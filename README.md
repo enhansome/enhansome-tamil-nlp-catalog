@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,230 | 🐛 688 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,231 | 🐛 688 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 41 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -119,7 +119,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 * [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,573 | 🐛 37 | 🌐 Python | 📅 2026-09-30
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
-* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2026-10-09
+* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2026-10-13
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
 * [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
 * [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
@@ -150,7 +150,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 * [Indic POS Tagger](https://github.com/avineshpvs/indic_tagger) ⭐ 46 | 🐛 9 | 🌐 Python | 📅 2023-02-02
 * [Number To Words](https://github.com/sutariyaraj/indic-num2words) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-05-23
 * [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2023-10-19
-* [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration) ⭐ 7 | 🐛 9 | 🌐 Python | 📅 2022-12-13 & [Indic-Punct](https://github.com/Open-Speech-EkStep/indic-punct) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2022-12-15
+* [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration) ⭐ 7 | 🐛 9 | 🌐 Python | 📅 2022-12-13 & [Indic-Punct](https://github.com/Open-Speech-EkStep/indic-punct) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2022-12-15
 * [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-03-30 - {2018}
 
 ***
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

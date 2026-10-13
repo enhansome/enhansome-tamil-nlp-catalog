@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3264,
+                "stars": 3265,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -129,10 +129,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-23T23:39:41Z",
-                "open_issues": 880,
+                "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40036,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -495,7 +495,7 @@
                 "id": 93286921,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T04:07:16Z",
+                "last_commit": "2026-10-13T00:48:03Z",
                 "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
@@ -520,7 +520,7 @@
                 "open_issues": 0,
                 "owner": "notAI-tech",
                 "repo": "DeepTranslit",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "deep-learning",
                   "english",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:19:57.591Z",
+    "last_updated": "2026-10-13T06:58:54.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
