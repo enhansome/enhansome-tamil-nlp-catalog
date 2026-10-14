@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3265,
+                "stars": 3266,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -95,7 +95,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1202,
+                    "stars": 1203,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40039,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -219,7 +219,7 @@
                 "open_issues": 28,
                 "owner": "artitw",
                 "repo": "text2text",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2693,
+                    "stars": 2694,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -903,7 +903,7 @@
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -971,7 +971,7 @@
                     "open_issues": 49,
                     "owner": "facebookresearch",
                     "repo": "LASER",
-                    "stars": 3659,
+                    "stars": 3660,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1969,7 +1969,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:58:54.820Z",
+    "last_updated": "2026-10-14T05:13:07.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
