@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40039,
+                "stars": 40038,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -2265,6 +2265,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Thamizhi Word Validator",
+                  "description": "sarves/thamizhi-preprocessor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Thamizhi- Validator",
+                    "homepage": null,
+                    "id": 30366803,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-06-11T09:22:26Z",
+                    "open_issues": 0,
+                    "owner": "sarves",
+                    "repo": "thamizhi-preprocessor",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T11:39:47.871Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Indic to Pure Tamil",
                   "description": "narVidhai/Sanskrit-To-Pure-Tamil-Dictionary",
                   "children": [],
@@ -2285,27 +2306,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Thamizhi Word Validator",
-                  "description": "sarves/thamizhi-preprocessor",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Thamizhi- Validator",
-                    "homepage": null,
-                    "id": 30366803,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-06-11T09:22:26Z",
-                    "open_issues": 0,
-                    "owner": "sarves",
-                    "repo": "thamizhi-preprocessor",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T11:39:47.871Z"
                 }
               ]
             }
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:13:07.845Z",
+    "last_updated": "2026-10-15T05:00:12.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
