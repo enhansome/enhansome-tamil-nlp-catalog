@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3274,
+                "stars": 3276,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40039,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -457,7 +457,7 @@
                 "open_issues": 38,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1133,7 +1133,7 @@
                 "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1776,7 +1776,7 @@
                 "open_issues": 152,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "awesome-list",
                   "corpora",
@@ -2030,7 +2030,7 @@
                     "open_issues": 152,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
-                    "stars": 640,
+                    "stars": 641,
                     "topics": [
                       "awesome-list",
                       "corpora",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:08:38.477Z",
+    "last_updated": "2026-10-22T05:12:46.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

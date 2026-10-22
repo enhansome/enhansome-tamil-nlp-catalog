@@ -117,7 +117,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,572 | 🐛 38 | 🌐 Python | 📅 2026-09-30
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,573 | 🐛 38 | 🌐 Python | 📅 2026-09-30
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 214 | 🐛 11 | 🌐 Python | 📅 2026-10-16
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -327,7 +327,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Lexical Resources
 
-* [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) ⭐ 640 | 🐛 152 | 📅 2024-12-14 - {2014}
+* [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) ⭐ 641 | 🐛 152 | 📅 2024-12-14 - {2014}
 * [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16
 * [IIIT-H Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23
 * [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
@@ -350,7 +350,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Miscellaneous NLP Datasets
 
 * **Natural Language Inference**
-  * [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) ⭐ 640 | 🐛 152 | 📅 2024-12-14 - {2020}
+  * [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) ⭐ 641 | 🐛 152 | 📅 2024-12-14 - {2020}
   * [IndicLink - Multilingual Fact Linking](https://github.com/google-research-datasets/IndicLink) ⚠️ Archived - {2022}
   * [XNLI 2019](https://www.gujaratresearchsociety.in/index.php/JGRS/article/view/3426) - Request via email
   * [AI4Bharat Cross-Lingual Sentence Retrieval](https://indicnlp.ai4bharat.org/indic-glue/)
@@ -391,9 +391,9 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ## **Other Important Resources**
 
-* [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) ⭐ 640 | 🐛 152 | 📅 2024-12-14 by AI4Bharat
+* [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) ⭐ 641 | 🐛 152 | 📅 2024-12-14 by AI4Bharat
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
