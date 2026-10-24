@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3276,
+                "stars": 3278,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -457,7 +457,7 @@
                 "open_issues": 38,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1573,
+                "stars": 1574,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2117,7 +2117,7 @@
                     "open_issues": 1,
                     "owner": "google-research-datasets",
                     "repo": "wit",
-                    "stars": 1115,
+                    "stars": 1114,
                     "topics": [
                       "cc-by-sa-3",
                       "machine-learning",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:11:53.504Z",
+    "last_updated": "2026-10-24T04:54:16.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
