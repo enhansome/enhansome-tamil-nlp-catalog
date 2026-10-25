@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40040,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -180,7 +180,7 @@
                 "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 798,
+                "stars": 797,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:54:16.533Z",
+    "last_updated": "2026-10-25T05:05:49.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
