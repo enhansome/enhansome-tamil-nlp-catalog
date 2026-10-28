@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40040,
+                "stars": 40037,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -180,7 +180,7 @@
                 "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 797,
+                "stars": 796,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -971,7 +971,7 @@
                     "open_issues": 49,
                     "owner": "facebookresearch",
                     "repo": "LASER",
-                    "stars": 3659,
+                    "stars": 3658,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1467,7 +1467,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1803,7 +1803,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2222,7 +2222,7 @@
                     "open_issues": 10,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_corpus",
-                    "stars": 207,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:24:07.035Z",
+    "last_updated": "2026-10-28T06:03:09.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
