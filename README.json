@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3283,
+                "stars": 3284,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40036,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -400,10 +400,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-01-26T19:15:38Z",
-                    "open_issues": 10,
+                    "open_issues": 22,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2699,
+                    "stars": 2698,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -457,7 +457,7 @@
                 "open_issues": 38,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1574,
+                "stars": 1575,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1969,7 +1969,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 575,
+                "stars": 576,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:03:09.788Z",
+    "last_updated": "2026-10-29T06:14:37.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
