@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40038,
+                "stars": 40037,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -312,7 +312,7 @@
                     "open_issues": 55,
                     "owner": "UKPLab",
                     "repo": "EasyNMT",
-                    "stars": 1259,
+                    "stars": 1258,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -403,7 +403,7 @@
                     "open_issues": 22,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2698,
+                    "stars": 2697,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -1133,7 +1133,7 @@
                 "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1773,7 +1773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 641,
@@ -1969,7 +1969,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2027,7 +2027,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 153,
+                    "open_issues": 154,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 641,
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:37:35.234Z",
+    "last_updated": "2026-11-02T06:37:23.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
