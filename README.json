@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40033,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -403,7 +403,7 @@
                     "open_issues": 22,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2697,
+                    "stars": 2696,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -453,8 +453,8 @@
                 "id": 56728069,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T10:18:04Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-02T23:28:08Z",
+                "open_issues": 14,
                 "owner": "bootphon",
                 "repo": "phonemizer",
                 "stars": 1576,
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T06:37:23.054Z",
+    "last_updated": "2026-11-03T07:07:17.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
