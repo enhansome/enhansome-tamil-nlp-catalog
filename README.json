@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3290,
+                "stars": 3291,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40035,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -592,7 +592,7 @@
                 "open_issues": 9,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "indic-languages",
                   "speech-recognition",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:10:53.100Z",
+    "last_updated": "2026-11-06T07:10:58.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

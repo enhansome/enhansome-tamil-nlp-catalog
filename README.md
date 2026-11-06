@@ -135,7 +135,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Speech
 
 * [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,603 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
-* [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 9 | 📅 2022-09-16
+* [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 9 | 📅 2022-09-16
 * [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2018-09-12
 * [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2019-12-04
 * [Indic Wav2Vec2](https://indicnlp.ai4bharat.org/indicwav2vec/)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
