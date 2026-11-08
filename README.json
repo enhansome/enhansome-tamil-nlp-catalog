@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3292,
+                "stars": 3293,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40032,
+                "stars": 40033,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -971,7 +971,7 @@
                     "open_issues": 49,
                     "owner": "facebookresearch",
                     "repo": "LASER",
-                    "stars": 3658,
+                    "stars": 3657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:39:47.871Z"
@@ -992,7 +992,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 202,
+                    "stars": 203,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:23:40.259Z",
+    "last_updated": "2026-11-08T06:31:47.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
