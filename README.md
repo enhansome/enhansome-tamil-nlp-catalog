@@ -79,7 +79,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Word Embeddings
 
 * [Facebook MUSE](https://github.com/facebookresearch/MUSE) ⚠️ Archived
-* [ConceptNet](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,322 | 🐛 10 | 🌐 Python | 📅 2022-07-18
+* [ConceptNet](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,321 | 🐛 10 | 🌐 Python | 📅 2022-07-18
 * [GeoMM](https://github.com/anoopkunchukuttan/geomm) ⭐ 27 | 🐛 30 | 🌐 Python | 📅 2022-12-08
 * FastText
   * [Multilingual Aligned](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 - {2017}
@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,240 | 🐛 691 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,242 | 🐛 691 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 305 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

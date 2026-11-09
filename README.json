@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3293,
+                "stars": 3296,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "commonsense",
                 "repo": "conceptnet-numberbatch",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T06:31:47.610Z",
+    "last_updated": "2026-11-09T07:01:03.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
