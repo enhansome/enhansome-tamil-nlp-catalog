@@ -104,7 +104,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Translation
 
 * NMT
-  * [EasyNMT](https://github.com/UKPLab/EasyNMT) ⭐ 1,259 | 🐛 55 | 🌐 Python | 📅 2023-12-21 - Collection of open source multilingual NMT models
+  * [EasyNMT](https://github.com/UKPLab/EasyNMT) ⭐ 1,260 | 🐛 55 | 🌐 Python | 📅 2023-12-21 - Collection of open source multilingual NMT models
   * [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2022-03-05
   * [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2021-04-11 - {2020, mT5 model fine-tuned on public datasets}
   * [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
@@ -113,13 +113,13 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,697 | 🐛 22 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,696 | 🐛 22 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,577 | 🐛 14 | 🌐 Python | 📅 2026-11-02
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,578 | 🐛 14 | 🌐 Python | 📅 2026-11-02
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
-* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 214 | 🐛 11 | 🌐 Python | 📅 2026-11-10
+* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-11-10
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
 * [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
 * [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
@@ -180,7 +180,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 856 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
 * [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29 - {2012}
 * [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16
 * [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
