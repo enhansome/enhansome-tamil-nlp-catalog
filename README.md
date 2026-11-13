@@ -119,7 +119,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 * [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,578 | 🐛 14 | 🌐 Python | 📅 2026-11-02
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
-* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-11-10
+* [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-11-12
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
 * [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
 * [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
