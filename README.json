@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3300,
+                "stars": 3301,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -159,7 +159,7 @@
                 "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1290,
+                "stars": 1289,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -403,7 +403,7 @@
                     "open_issues": 22,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2696,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:03:40.751Z",
+    "last_updated": "2026-11-14T06:53:06.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",

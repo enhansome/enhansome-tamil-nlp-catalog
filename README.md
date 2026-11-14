@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,242 | 🐛 691 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,243 | 🐛 691 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 305 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,696 | 🐛 22 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,695 | 🐛 22 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -310,7 +310,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### Sentiment and Abuse Analysis
 
-* [Dravidian-CodeMix: Offensive Language Identification - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-02-05 - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment) ⭐ 8 | 🐛 0 | 📅 2021-05-16}
+* [Dravidian-CodeMix: Offensive Language Identification - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-02-05 - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment) ⭐ 7 | 🐛 0 | 📅 2021-05-16}
   * Implementations: [Theedhum Nandrum](https://github.com/oligoglot/theedhum-nandrum) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2021-04-09
 * [Multilingual Abusive Comment Detection - ShareChatAI](https://github.com/ShareChatAI/MACD) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-02-22 - 30k samples
 * [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2020-01-16
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
