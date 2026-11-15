@@ -92,7 +92,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Transformers, BERT
 
 * [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) ⚠️ Archived
-* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,243 | 🐛 691 | 🌐 Python | 📅 2026-09-21
+* [Google Multilingual T5](https://github.com/google-research/multilingual-t5) ⚠️ Archived, [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm) ⭐ 22,242 | 🐛 691 | 🌐 Python | 📅 2026-09-21
 * [TranKit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22
 * [Multilingual Text2Text](https://github.com/artitw/text2text) ⭐ 305 | 🐛 28 | 🌐 Python | 📅 2025-01-14
 * iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-08-07 | [Tanglish](https://github.com/goru001/nlp-for-tanglish) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-03-07
@@ -113,11 +113,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,695 | 🐛 22 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,694 | 🐛 22 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
-* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,578 | 🐛 14 | 🌐 Python | 📅 2026-11-02
+* [Word Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,579 | 🐛 14 | 🌐 Python | 📅 2026-11-02
 * LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) ⭐ 276 | 🐛 18 | 🌐 Python | 📅 2022-10-28 | [English words](https://github.com/libindic/Transliteration) ⭐ 80 | 🐛 7 | 🌐 Roff | 📅 2025-10-24
 * [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-11-12
 * [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit) ⚠️ Archived
@@ -135,7 +135,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Speech
 
 * [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT) ⭐ 2,604 | 🐛 106 | 🌐 C++ | 📅 2024-03-11
-* [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 9 | 📅 2022-09-16
+* [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 9 | 📅 2022-09-16
 * [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2018-09-12
 * [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2019-12-04
 * [Indic Wav2Vec2](https://indicnlp.ai4bharat.org/indicwav2vec/)
@@ -180,7 +180,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-11-14
 * [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29 - {2012}
 * [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16
 * [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
@@ -189,7 +189,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   * Note: CC-Aligned overlaps with [CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix) ⚠️ Archived
   * Contains [MultiCC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus) ⭐ 203 | 🐛 3 | 📅 2025-05-19, [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) ⚠️ Archived, and more...
 * [MultiIndicMT - WAT2021](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) / [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html#download)
-  * Contains [PM India Corpus](http://data.statmt.org/pmindia), [Manathin Kural (CVIT-MkB)](http://preon.iiit.ac.in/~jerin/bhasha/), [NLPC-UoM Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 15 | 🐛 1 | 📅 2021-01-04, [Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz), [Charles University EnTam v2.0 Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
+  * Contains [PM India Corpus](http://data.statmt.org/pmindia), [Manathin Kural (CVIT-MkB)](http://preon.iiit.ac.in/~jerin/bhasha/), [NLPC-UoM Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 16 | 🐛 1 | 📅 2021-01-04, [Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz), [Charles University EnTam v2.0 Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 * EkStep Anuvaad
   * [Parallel Corpora](https://github.com/project-anuvaad/anuvaad-parallel-corpus) ⭐ 25 | 🐛 1 | 📅 2022-05-05
   * [Synthetic Corpus](https://github.com/project-anuvaad/parallel-corpus) - Translations generated using Google
@@ -379,7 +379,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 * MorphAnalysis
   * [AI4Bharat MorphAnalyzer](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16
-  * [ThamizhiMorph](https://github.com/sarves/thamizhi-morph) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-05-06
+  * [ThamizhiMorph](https://github.com/sarves/thamizhi-morph) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-05-06
 
 * **Pure Tamil**
   * [Thamizhi Word Validator](https://github.com/sarves/thamizhi-validator) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2021-06-11
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
