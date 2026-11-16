@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3301,
+                "stars": 3302,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40028,
+                "stars": 40026,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -403,7 +403,7 @@
                     "open_issues": 22,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -457,7 +457,7 @@
                 "open_issues": 14,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1579,
+                "stars": 1580,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -495,7 +495,7 @@
                 "id": 93286921,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T11:07:48Z",
+                "last_commit": "2026-11-16T04:36:02Z",
                 "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
@@ -1773,7 +1773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 155,
+                "open_issues": 154,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 641,
@@ -2027,7 +2027,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 155,
+                    "open_issues": 154,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 641,
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:58:47.158Z",
+    "last_updated": "2026-11-16T07:05:20.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
