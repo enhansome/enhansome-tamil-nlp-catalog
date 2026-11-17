@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3302,
+                "stars": 3303,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40026,
+                "stars": 40024,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -219,7 +219,7 @@
                 "open_issues": 28,
                 "owner": "artitw",
                 "repo": "text2text",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -457,7 +457,7 @@
                 "open_issues": 14,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1580,
+                "stars": 1581,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -495,7 +495,7 @@
                 "id": 93286921,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T04:36:02Z",
+                "last_commit": "2026-11-17T02:33:44Z",
                 "open_issues": 11,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
@@ -903,7 +903,7 @@
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 857,
+                "stars": 858,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1913,7 +1913,7 @@
                 "open_issues": 0,
                 "owner": "tushar117",
                 "repo": "XAlign",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "cross-lingual-text-generation",
                   "machine-learning",
@@ -1969,7 +1969,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:05:20.869Z",
+    "last_updated": "2026-11-17T08:18:35.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
