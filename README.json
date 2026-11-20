@@ -95,7 +95,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1202,
+                    "stars": 1201,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -132,7 +132,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40021,
+                "stars": 40019,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -180,7 +180,7 @@
                 "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 797,
+                "stars": 796,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2695,
+                    "stars": 2694,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -457,7 +457,7 @@
                 "open_issues": 14,
                 "owner": "bootphon",
                 "repo": "phonemizer",
-                "stars": 1581,
+                "stars": 1580,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -496,7 +496,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T02:33:44Z",
-                "open_issues": 11,
+                "open_issues": 8,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
                 "stars": 215,
@@ -560,7 +560,7 @@
                 "open_issues": 106,
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2604,
+                "stars": 2603,
                 "topics": [
                   "asr",
                   "automatic-speech-recognition",
@@ -592,7 +592,7 @@
                 "open_issues": 9,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "indic-languages",
                   "speech-recognition",
@@ -992,7 +992,7 @@
                     "open_issues": 3,
                     "owner": "christos-c",
                     "repo": "bible-corpus",
-                    "stars": 203,
+                    "stars": 204,
                     "topics": [
                       "bible",
                       "bible-corpus",
@@ -1773,7 +1773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
                 "stars": 641,
@@ -1948,7 +1948,7 @@
                 "open_issues": 29,
                 "owner": "google-research",
                 "repo": "xtreme",
-                "stars": 650,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -1969,7 +1969,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 578,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -2027,7 +2027,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 155,
+                    "open_issues": 156,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
                     "stars": 641,
@@ -2117,7 +2117,7 @@
                     "open_issues": 1,
                     "owner": "google-research-datasets",
                     "repo": "wit",
-                    "stars": 1115,
+                    "stars": 1114,
                     "topics": [
                       "cc-by-sa-3",
                       "machine-learning",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:45:52.978Z",
+    "last_updated": "2026-11-20T07:38:19.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
