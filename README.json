@@ -403,7 +403,7 @@
                     "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -1773,10 +1773,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-14T02:21:43Z",
-                "open_issues": 156,
+                "open_issues": 159,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_catalog",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "awesome-list",
                   "corpora",
@@ -2027,10 +2027,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-12-14T02:21:43Z",
-                    "open_issues": 156,
+                    "open_issues": 159,
                     "owner": "AI4Bharat",
                     "repo": "indicnlp_catalog",
-                    "stars": 641,
+                    "stars": 642,
                     "topics": [
                       "awesome-list",
                       "corpora",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:38:19.868Z",
+    "last_updated": "2026-11-21T07:35:04.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
