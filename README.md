@@ -113,7 +113,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 #### Online translation libraries
 
-* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,693 | 🐛 10 | 🌐 Python | 📅 2026-01-26
+* [Python Translators](https://github.com/UlionTse/translators) ⭐ 2,694 | 🐛 11 | 🌐 Python | 📅 2026-01-26
 
 ### Transliteration
 
@@ -342,7 +342,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Benchmarks
 
 * [XTREME - Multi-task Benchmark for Cross-lingual Generalization](https://github.com/google-research/xtreme) ⚠️ Archived
-* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 577 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
+* [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2022-11-28 - Slot filling, Intent classification, Virtual assistant evaluation
 * [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) ⭐ 16 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-02-28 - {2021}
 * [XTREME-S: Evaluating Cross-lingual Speech Representations](https://huggingface.co/datasets/google/xtreme_s) - {[Paper](https://arxiv.org/pdf/2203.10752.pdf)}
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
@@ -396,4 +396,4 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
