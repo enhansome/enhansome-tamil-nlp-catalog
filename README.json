@@ -21,7 +21,7 @@
                 "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "MUSE",
-                "stars": 3309,
+                "stars": 3310,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:39:47.871Z"
@@ -95,7 +95,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1201,
+                    "stars": 1200,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -400,10 +400,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-01-26T19:15:38Z",
-                    "open_issues": 11,
+                    "open_issues": 10,
                     "owner": "UlionTse",
                     "repo": "translators",
-                    "stars": 2693,
+                    "stars": 2695,
                     "topics": [
                       "alibaba",
                       "argos",
@@ -495,7 +495,7 @@
                 "id": 93286921,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T02:33:44Z",
+                "last_commit": "2026-11-26T00:43:05Z",
                 "open_issues": 8,
                 "owner": "indic-transliteration",
                 "repo": "indic_transliteration_py",
@@ -560,7 +560,7 @@
                 "open_issues": 106,
                 "owner": "coqui-ai",
                 "repo": "STT",
-                "stars": 2603,
+                "stars": 2604,
                 "topics": [
                   "asr",
                   "automatic-speech-recognition",
@@ -2319,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:58:41.890Z",
+    "last_updated": "2026-11-26T08:45:11.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Tamil NLP & AI Resources",
